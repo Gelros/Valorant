@@ -1,0 +1,31 @@
+.bloc {
+    position: fixed;
+    min-width: 100%;
+    height: 100%;
+    left: 10%;
+    overflow: hidden;
+    z-index: -100;
+}
+
+.bloc video {
+    position: absolute;
+    min-width: 100%;
+    min-height: 100%;
+    top: 60%;
+    left: 60%;
+    transform: translate(-60%,-60%);
+    z-index: -99;
+}
+
+.bloc .sombre {
+    position: absolute;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -98;
+    background-image: url("../assets/bg-2.png");
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+}
+
+
