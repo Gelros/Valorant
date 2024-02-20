@@ -20,11 +20,3 @@
     background-position:center;
     background-size: cover;
 }
-
-.apair{
-   position: absolute;
-   height: 100%;
-   width: 100%;
-   background-color: white;
-   opacity: 0;
-}

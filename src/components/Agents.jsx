@@ -1,5 +1,6 @@
 import {React, useState} from 'react';
 
+
 const Agents = (props) => {
     // const [champ, setChamp] = useState()
     // useEffect(()=> {
@@ -11,19 +12,20 @@ const Agents = (props) => {
             // })
             // .catch(err => console.log(err))
             // }, [])
-
+      
     
     let data = props.Data.data
+
+    console.log(data[0].role.displayName.includes("sentinel"));
     return (
         <div className='pos agent'>
             {
                 data?.map((e) => 
                 <div key={e.uuid} className="card back-center" >
-                    <div className="apair" ></div>
+                    
                         <div className="desc-perso">
                             <img src={e.displayIcon} alt="portrait" />
                             <h1 className='color2'>{e.displayName}</h1>
-                            <p className='color'>{e.description}</p>
                         </div>
                         
                 </div>
