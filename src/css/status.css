@@ -2,10 +2,7 @@
     position: fixed;
     height: 100%;
     width: 10%;
-    background-image: url("../assets/banniereS.png");
-    background-repeat: no-repeat;
-    background-position:center;
-    background-size: cover;
+    background-color: rgb(8, 8, 8);
 }
   
 .logo-valo{

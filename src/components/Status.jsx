@@ -1,6 +1,6 @@
 import React from 'react';
 import { NavLink } from "react-router-dom";
-import Logo from "../assets/logo-valo.png"
+import Logo from "../assets/jett.png"
 
 const Status = () => {
     let loc = window.location.href

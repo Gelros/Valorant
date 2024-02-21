@@ -1,37 +1,34 @@
 import {React, useState} from 'react';
+import Data from "../data/persos.json"
+import Cate from "./Cate"
+import Boutons from "./Boutons"
 
-
-const Agents = (props) => {
-    // const [champ, setChamp] = useState()
-    // useEffect(()=> {
-        //  fetch('https://valorant-api.com/v1/agents')
-        // .then(res => res.json())
-        // .then(data => {
-            //   setChamp(data.data)
-            //   console.log(data.data);
-            // })
-            // .catch(err => console.log(err))
-            // }, [])
+const Agents = () => {
       
-    
-    let data = props.Data.data
+    //Stockage tableau de donnée persos dans un useState pour exporter la data
+    const [item, setItem] = useState(Data)
+    //Tableau pour les categories
+    const menuCategories = [...new Set(Data.map((e) => e.categorie))]
+    // Permet de filtrer la categorie selctionnée et de renvoyer le tableau filtrer
+    const filterItems = (e) => {
+        const newItems = Data.filter((newval) => newval.categorie === e)
+        setItem(newItems)
+    }
 
-    console.log(data[0].role.displayName.includes("sentinel"));
+    let itemSelected = item[0].categorie
+
+    let itemNumber = item.length
+    
     return (
         <div className='pos agent'>
-            {
-                data?.map((e) => 
-                <div key={e.uuid} className="card back-center" >
-                    
-                        <div className="desc-perso">
-                            <img src={e.displayIcon} alt="portrait" />
-                            <h1 className='color2'>{e.displayName}</h1>
-                        </div>
-                        
-                </div>
-                )
-
-            }
+            <Boutons 
+            menuCategories={menuCategories}
+            filterItems={filterItems}
+            setItem={setItem}
+            itemSelected={itemSelected}
+            itemNumber={itemNumber}
+            />
+            <Cate item={item}/>
         </div>
     );
 };

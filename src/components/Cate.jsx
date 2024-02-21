@@ -1,45 +1,16 @@
-import {React, useState} from 'react';
-import Data from '../data/persos.json'
+import React from 'react';
 
-const Cate = () => {
 
-const tableau = [
-
-    {
-        "name" : "Initiateur",
-        "role": "initiator"
-    },
-    {
-        "name" : "Sentinelle",
-        "role": "Sentinel"
-    },
-    {
-        "name" : "Dueliste",
-        "role": "Duelist"
-    },
-    {
-        "name" : "Controlleur",
-        "role": "Controler"
-    }
-]
-    
-    const [target, setTarget] = useState("")
-
-    const change = (e) => {
-        setTarget(e.target.attributes.value.value)
-    }
+const Cate = ({item}) => {
   
-    console.log(target);
-    console.log(Data.data[0].role.displayName.includes(target));
-   
     return (
-        <div className='categories'>
+        <div className='all'>
             {
-                tableau.map((e) => 
-                    <ul>
-                        <li className='color cursor' onClick={change} value={e.role}>{e.name}</li>
-                    </ul>
-                )
+                item?.map((e) => (
+                    <div key={e.uuid} className="card">
+                        <img src={e.displayIcon} alt="" />
+                    </div>
+                ))
             }
         </div>
     );
