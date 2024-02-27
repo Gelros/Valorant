@@ -12,7 +12,7 @@ const Boutons = ({menuCategories, filterItems, setItem, itemSelected, itemNumber
             </button>
             {
                 menuCategories.map((e) => (
-                    <button className={`btn color ${itemNumber > 10 ? "" : e === itemSelected ? "color2" : ""}`} onClick={() => filterItems(e)}>
+                    <button className={`btn color ${itemNumber > 10 ? "" : e === itemSelected ? "color2" : ""}`} onClick={() => filterItems(e)} key={e}>
                         {e}
                     </button>
                 ))

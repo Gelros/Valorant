@@ -1,4 +1,5 @@
 import React from 'react';
+import {Link} from 'react-router-dom'
 
 
 const Cate = ({item}) => {
@@ -7,9 +8,9 @@ const Cate = ({item}) => {
         <div className='all'>
             {
                 item?.map((e) => (
-                    <div key={e.uuid} className="card">
+                    <Link to={`property/${e.uuid}`} key={e.uuid} className="card">
                         <img src={e.displayIcon} alt="" />
-                    </div>
+                    </Link>
                 ))
             }
         </div>

@@ -20,7 +20,7 @@ const Agents = () => {
     let itemNumber = item.length
     
     return (
-        <div className='pos agent'>
+        <div className='pos '>
             <Boutons 
             menuCategories={menuCategories}
             filterItems={filterItems}

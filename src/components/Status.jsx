@@ -20,7 +20,7 @@ const Status = () => {
                         <NavLink className={`nav-link color ${loc === "http://localhost:3000/cartes" ? "color-active" : ""}`} to="/cartes">Cartes</NavLink>
                     </li>
                     <li>
-                        <NavLink className={`nav-link color ${loc === "http://localhost:3000/esport" ? "color-active" : ""}`} to="/esport">Esport</NavLink>
+                        <NavLink className={`nav-link color ${loc === "http://localhost:3000/armes" ? "color-active" : ""}`} to="/armes">Armes</NavLink>
                     </li>
                 
               </div>  

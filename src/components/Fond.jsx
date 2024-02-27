@@ -3,9 +3,10 @@ import vid from "../assets/ValoAnimFond.mp4"
 
 const Fond = () => {
     const loc = window.location.href
-    console.log(loc);
+
     return (
-        <div className='bloc'>
+        <div className="bloc">
+            
             <video src={vid} autoPlay muted loop ></video>
 
             

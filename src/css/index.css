@@ -26,7 +26,28 @@ body{
   color: #FA4454
 }
 
+.bg {
+  background: #FA4454 !important
+}
+
+.bg-p {
+  left: 0;
+}
+
+.c-1 {
+  text-align: center
+}
+
+button, a {
+  transition: 0.2s ease;
+}
+
+button:hover, a:hover {
+ color: #FA4454
+}
+
 @import url(./main.css);
 @import url(./status.css);
 @import url(./accueil.css);
 @import url(./card.css);
+@import url(./property.css);
