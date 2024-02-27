@@ -46,8 +46,13 @@ button:hover, a:hover {
  color: #FA4454
 }
 
+a{
+  text-decoration: none
+}
+
 @import url(./main.css);
 @import url(./status.css);
 @import url(./accueil.css);
 @import url(./card.css);
 @import url(./property.css);
+@import url(./map.css);

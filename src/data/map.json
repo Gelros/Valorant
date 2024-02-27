@@ -1,0 +1,62 @@
+[
+    {
+        "name":"ASCENT",
+        "description":"Ascent est la quatrième map de Valorant, ajoutée à la sortie du jeu au cours du patch 1.00. Elle présente 2 spots de Spike séparés par de longs couloirs et une place centrale ouverte. Certains accès peuvent être restreint par des rideaux de fer déployés par les défenseurs. La map met en avant la verticalité; en faveur des Défenseurs sur le site A, en faveur des Attaquants sur le site B.",
+        "background":"https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt9e24fe356d0faf81/5eabe9c497c0a55d71b7fceb/ascent2.jpg?auto=webp&width=799",
+        "lien":"https://www.dexerto.fr/cdn-cgi/image/width=3840,quality=75,format=auto/https://s3.eu-west-3.amazonaws.com/dexertofr-assets-production-dda5f020/uploads/2020/06/04161102/fr-ascent.png"
+    },
+    {
+        "name":"BIND",
+        "description":"Bind est une map qui dispose de deux site de Spike. Le premier, en A, est une zone découverte, protégée par de nombreuses caisses en bois et une fenêtre en hauteur, propice à la défense au sniper. Le second, en B, se situe sous un tunnel métallique, difficilement accessible. Sa particularité réside dans ses téléporteurs, qui permettent de traverser la map de long en large et tenter de prendre par surprise son adversaire. Cependant, ils sont très bruyants et il est facile de se faire punir à leur sortie, qu’on soit venu attaquer ou défendre.",
+        "background":"https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltc54ad3a88d94a4d6/5eabe92eaf7e315106b4799b/bind1.jpg?auto=webp&width=799",
+        "lien":"https://www.dexerto.fr/cdn-cgi/image/width=3840,quality=75,format=auto/https://s3.eu-west-3.amazonaws.com/dexertofr-assets-production-dda5f020/uploads/2020/06/04160807/fr-bind.png"
+    },
+    {
+        "name":"SPLIT",
+        "description":"Split est une grande carte qui possède deux sites de Spike, assez éloignés l’un de l’autre. Elle est certainement l’un des plus difficile à maîtriser pour le moment, puisqu’elle nécessite une bonne connaissance des lieux pour se repéré et piéger ses adversaires. Les défenseurs sont mis à rude épreuve sur Split, puisqu’en cas de mauvais choix ou de défaite sur l’un des spots, le reste de l’équipe doit effectuer un long trajet pour espérer freiner l’avancée des attaquants. Heureusement pour eux, il reste difficile de percer les défenses dans un premier temps, puisque les espaces de la map sont propices à retenir les assauts.",
+        "background":"https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt643d33e2defb855c/5eabe9fe248a28605479c547/split1.jpg?auto=webp&width=799",
+        "lien":"https://www.dexerto.fr/cdn-cgi/image/width=3840,quality=75,format=auto/https://s3.eu-west-3.amazonaws.com/dexertofr-assets-production-dda5f020/uploads/2020/06/04161007/fr-split.png"
+    },
+    {
+        "name":"SUNSET",
+        "description":"Sunset est la dixième map de Valorant. Elle s’inspire des quartiers de Los Angeles avoisinnant les locaux de Riot Games. Il s’agit cependant à la fois d’une version fantasmée de la ville, mais aussi d’un environnement en proie à des phénomènes liés aux brêches dimensionnelles. Si Sunset peut sembler être une map plutôt classique avec 2 sites à attaquer et peu de verticalité, elle dispose en revanche d’un mid avantageusement connectés à tous les points névralgiques. Ce qui signifie que contrôler le mid est absolument indispensable pour remporter le round.",
+        "background":"https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltaa074b509450631f/64e93345b62c6fbfafc3b1d1/Sunset_Screenshot_1.png?auto=webp&width=799",
+        "lien":"https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt2568f720b4d3e278/64edea1893225e291a42ec09/Sunset_Map_Website_Asset_FR.jpg?auto=webp&width=915"
+    },
+    {
+        "name":"HAVEN",
+        "description":"Haven est une map très particulière, puisqu’elle dispose de 3 sites pour la spike : A, B et C. Les défenseurs ont alors de nombreux points stratégiques à couvrir face aux attaquants, et doivent intelligemment répartir les ressources sur l’ensemble du terrain. Disposant de nombreux recoins et de portes d’entrées vers les sites, Haven est une map parfaite pour apprendre à maîtriser ses déplacements et créer des stratégiques innovantes.",
+        "background":"https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt7df0b99a582cc5aa/5eabe987b8a6356e4ddc0ca4/haven1.jpg?auto=webp&width=799",
+        "lien":"https://www.dexerto.fr/cdn-cgi/image/width=3840,quality=75,format=auto/https://s3.eu-west-3.amazonaws.com/dexertofr-assets-production-dda5f020/uploads/2020/06/04160901/fr-haven.png"
+    },
+    {
+        "name":"ICEBOX",
+        "description":"Icebox est la cinquième map de Valorant, ajoutée au lancement de l’Acte 3 de l’Episode 1. Il s’agit d’une map très ouverte et verticale, où le combat a longue distance y est roi. Elle possède deux sites de Spike aux styles radicalement opposés. Le site A est en intérieur et plutôt claustrophobique tandis que le site B est ouvert et en extérieur.",
+        "background":"https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt9ef7b41910a14118/5f80debff6c586323f8b17a3/icebox_1.jpg?auto=webp&width=799",
+        "lien":"https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blta92bbe5ce786e7ae/626c385c76b17f2f94786f9c/04-2022-Icebox-Minimap-2_FR.jpg?auto=webp&width=449"
+    },
+    {
+        "name":"LOTUS",
+        "description":"Lotus est la neuvième map de Valorant. Elle se déroule dans les montagnes de l’Inde, dans un lieu où les lotus poussent à foison, d’où son nom. Ces ruines seraient liées aux Gardiens, ces mystérieuses entités sur lesquelles Astra et Harbor enquêtent. Tout comme Haven avant elle, Lotus comporte 3 sites de pose du Spike. La map possède également des murs destructibles pour se frayer des chemins vers les points importants. On y découvre aussi des portes rotatives très lentes qui donnent elles aussi de nouveaux accès sur la map, au prix d’un manque de discrétion évident. Lotus est une map très étroite avec peu d’obstacles pour se dissimuler dans les couloirs. Il faudra plutôt jouer avec ses angles et les coins des murs.",
+        "background":"https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt0bb2058c88892462/63b8a805ade3a64c67746408/Lotus_Screenshot_1.jpg?auto=webp&width=799",
+        "lien":"https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt6c6046d8572332b4/63bd8d19d91eb93e774bd429/Phase_3_Minimap_LOTUS_FR.jpg?auto=webp&width=449"
+    },
+    {
+        "name":"PEARL",
+        "description":"Pearl est la huitième map de Valorant, ajoutée avec l’Acte 1 de l’Episode 5 : Dimension. Elle apporte une nouveauté par rapport aux autres cartes du jeu, puisqu’elle est située dans les fonds marins, sous un dôme infusé de Radianite. Elle comporte 2 sites pour planter le Spike, séparés par un mid extrêmement complexe. Celui-ci est composé d’une multitude de couloirs et recoins, qui plairont sans doute aux lurkers. Pearl se caractérise aussi par un sol inégal : pente, escaliers, égouts et hauteurs sont ainsi au rendez-vous. Par ailleurs, cette nouvelle carte offre l’une des lignes les plus dégagées de Valorant, à proximité du site B. Ce couloir droit et sans embranchement fera le bonheur des adeptes du Marshal ou de l’Opérateur.",
+        "background":"https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt0c118364c6320f60/62a289d3891af05acaff06b1/Pearl_Gallery_01.jpg?auto=webp&width=799",
+        "lien":"https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt48c9b4a748194b85/62b2fd6a4a98d755621a683e/Pearl_Map_Website_Asset_FR.jpg?auto=webp&width=449"
+    },
+    {
+        "name":"FRACTURE",
+        "description":"Fracture est la septième map de Valorant, ajouté lors de l’Acte 2 de l’Épisode 3. Il s’agit d’une map originale, où les défenseurs sont cernés par les attaquants. Les points A et B sont particulièrement difficiles à défendre, du fait que les assauts peuvent venir de toute part et que les sites ne proposent ni couverture, ni issue de secours. Cette map fait la part belle aux affrontement à courte et moyenne portée. Les Agents capables de verrouiller une zone ou un accès y sont particulièrement efficaces.",
+        "background":"https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt1a720126e3713bba/6131bf518e16ab655b34901a/Fracture_Screenshot-8.jpg?auto=webp&width=799",
+        "lien":"https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt9c2aae6de6cd5c32/633c199a7837bb10ac516553/Fracture_Map_Website_Asset-507_FR.jpg?auto=webp&width=449"
+    },
+    {
+        "name":"BREEZE",
+        "description":"Breeze est la sixième map de Valorant, ajouté lors de l’Acte 3 de l’Épisode 2. Il s’agit d’une map aux multiples zones ouvertes, avec de nombreux embranchements dans ses couloirs. Elle possède deux sites de Spike : l’un est légèrement surélevé, l’autre est légèrement en contre-bas. Les deux sites proposent relativement peu d’abris pour les combats, les Agents vont donc devoir utiliser leurs compétences pour se frayer un chemin d’un endroit à un autre.",
+        "background":"https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltba64f41bce11904b/607f9e3bc661f15b3da77f85/breeze_1.jpg?auto=webp&width=799",
+        "lien":"https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltda4acf03ad77d2d7/6087f4871022211019cca6e1/Breeze_Map_Website_Asset-fre.jpg?auto=webp&width=449"
+    }
+]

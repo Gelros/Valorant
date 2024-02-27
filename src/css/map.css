@@ -1,0 +1,24 @@
+.map-card{
+    box-shadow: 0 4px 7px rgba(0, 0, 0, 0.308);
+}
+
+.container{
+    position: relative;
+    width: 400px ;
+    height: 250px;
+}
+
+.container .bg-map {
+    width: 100%;
+    height: 100%;
+    border-radius: 15px;
+}
+
+.container h1 {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-size: 3rem;
+    color: white;
+}
