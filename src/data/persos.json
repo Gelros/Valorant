@@ -30,25 +30,28 @@
             "abilities": [
                 {
                     "slot": "Ability1",
+                    "vid" : "../assets/Vid/gekko/ab-1.mp4",
                     "displayName": "Dizzy",
                     "description": "ÉQUIPEZ-vous de Verti. TIREZ pour envoyer Verti dans les airs. Verti charge son attaque, puis tire des projectiles de plasma sur les ennemis qui se trouvent dans son champ de vision. Les ennemis touchés par le plasma sont aveuglés. Quand Verti arrive à expiration, elle redevient un globule dormant. INTERAGISSEZ avec elle pour la récupérer et, après un court délai, pouvoir réutiliser Verti.",
                     "displayIcon": "https://media.valorant-api.com/agents/e370fa57-4757-3604-3648-499e1f642d3f/abilities/ability1/displayicon.png"
                 },
                 {
                     "slot": "Ability2",
-                    
+                    "vid" : "../assets/Vid/gekko/ab-2.mp4",
                     "displayName": "Wingman",
                     "description": "ÉQUIPEZ-vous d’Altego. TIREZ pour envoyer Altego chercher des ennemis. Altego provoque une explosion désorientante en direction du premier ennemi qu’il voit. En visant un site de pose du spike ou un spike posé, utilisez le TIR SECONDAIRE pour l’envoyer poser ou désamorcer le spike. Pour poser le spike, Gekko doit l’avoir dans son inventaire. Quand Altego arrive à expiration, il redevient un globule dormant. INTERAGISSEZ avec lui pour récupérer le globule et, après un court délai, pouvoir réutiliser Altego.",
                     "displayIcon": "https://media.valorant-api.com/agents/e370fa57-4757-3604-3648-499e1f642d3f/abilities/ability2/displayicon.png"
                 },
                 {
-                    "slot": "Grenade",
+                    "slot": "Ability3",
+                    "vid" : "../assets/Vid/gekko/ab-3.mp4",
                     "displayName": "Mosh Pit",
                     "description": "ÉQUIPEZ-vous de Pogo. TIREZ pour lancer la créature comme une grenade. Utilisez le TIR SECONDAIRE pour faire un lancer par en dessous. Pogo se multiplie dans une large zone à l’atterrissage, puis explose après un court délai.",
                     "displayIcon": "https://media.valorant-api.com/agents/e370fa57-4757-3604-3648-499e1f642d3f/abilities/grenade/displayicon.png"
                 },
                 {
-                    "slot": "Ultimate",
+                    "slot": "Ability4",
+                    "vid" : "../assets/Vid/gekko/ab-4.mp4",
                     "displayName": "Mordicus",
                     "description": "ÉQUIPEZ-vous de Mordicus. TIREZ pour vous lier mentalement avec Mordicus et diriger la créature dans le territoire ennemi. ACTIVEZ pour bondir vers l’avant et exploser. Tous les ennemis dans un petit rayon sont retenus. Quand Mordicus arrive à expiration, elle redevient un globule dormant. INTERAGISSEZ avec elle pour récupérer le globule et, après un court délai, pouvoir réutiliser Mordicus. Mordicus peut être récupérée une fois.",
                     "displayIcon": "https://media.valorant-api.com/agents/e370fa57-4757-3604-3648-499e1f642d3f/abilities/ultimate/displayicon.png"
@@ -85,26 +88,29 @@
             "abilities": [
                 {
                     "slot": "Ability1",
-                    
-                    "displayName": "Prowler",
+                    "vid" :"https://www.mandatory.gg/wp-content/uploads/mandatory-valorant-video-fade-skill-rodeur.mp4",
+                    "displayName": "Rodeur (Prowler)",
                     "description": "ÉQUIPEZ-vous d’un Rôdeur. TIREZ pour envoyer le Rôdeur sur une ligne droite. Le Rôdeur se verrouille sur les ennemis ou les pistes qui entrent dans son cône de vision frontal et les suit ; s’il atteint un ennemi, il le rend myope. MAINTENEZ la touche de TIR pour guider le Rôdeur dans la direction de votre réticule.",
                     "displayIcon": "https://media.valorant-api.com/agents/dade69b4-4f5a-8528-247b-219e5a1facd6/abilities/ability1/displayicon.png"
                 },
                 {
                     "slot": "Ability2",
-                    "displayName": "Seize",
+                    "vid" :"https://www.mandatory.gg/wp-content/uploads/mandatory-valorant-video-fade-skill-capture.mp4",
+                    "displayName": "Capture (Seize)",
                     "description": "Équipez-vous d’un orbe d’encre cauchemardesque. TIREZ pour lancer l’orbe. Celui-ci tombe au sol après un temps défini, ce qui fait exploser l’encre et crée une zone. Les ennemis pris dans cette zone ne peuvent pas en sortir par des moyens normaux. RÉUTILISEZ la compétence pour faire tomber le projectile plus tôt.",
                     "displayIcon": "https://media.valorant-api.com/agents/dade69b4-4f5a-8528-247b-219e5a1facd6/abilities/ability2/displayicon.png"
                 },
                 {
-                    "slot": "Grenade",
-                    "displayName": "Haunt",
+                    "slot": "Ability3",
+                    "vid" :"https://www.mandatory.gg/wp-content/uploads/mandatory-valorant-video-fade-skill-hanteur.mp4",
+                    "displayName": "Hanteur (Haunt)",
                     "description": "Équipez-vous d’une entité cauchemardesque. TIREZ pour lancer l’orbe. Celui-ci tombe au sol après un temps défini, et se transforme alors en entité cauchemardesque qui révèle les ennemis dans son champ de vision. Les ennemis peuvent détruire cette entité. RÉUTILISEZ la compétence pour faire tomber le projectile plus tôt.",
                     "displayIcon": "https://media.valorant-api.com/agents/dade69b4-4f5a-8528-247b-219e5a1facd6/abilities/grenade/displayicon.png"
                 },
                 {
-                    "slot": "Ultimate",
-                    "displayName": "Nightfall",
+                    "slot": "Ability4",
+                    "vid" :"https://www.mandatory.gg/wp-content/uploads/mandatory-valorant-video-fade-skill-nuit-tombante.mp4",
+                    "displayName": "Nuit Tombante (Nightfall)",
                     "description": "ÉQUIPEZ-vous du pouvoir de la peur. TIREZ pour envoyer une vague d’énergie cauchemardesque qui peut traverser les murs. L’énergie crée une piste vers l’ennemi, en plus de l’assourdir et de désagréger ses PV.",
                     "displayIcon": "https://media.valorant-api.com/agents/dade69b4-4f5a-8528-247b-219e5a1facd6/abilities/ultimate/displayicon.png"
                 }
@@ -153,13 +159,13 @@
                     "displayIcon": "https://media.valorant-api.com/agents/5f8d3a7f-467b-97f3-062c-13acf203c006/abilities/ability2/displayicon.png"
                 },
                 {
-                    "slot": "Grenade",
+                    "slot": "Ability3",
                     "displayName": "Fault Line",
                     "description": "Breach s’équipe d’une charge sismique. MAINTENEZ votre tir pour augmenter la distance du tir. RELÂCHEZ pour créer une onde sismique, réduisant le champ de vision et la vitesse des adversaires touchés dans une large zone face à Breach. Cette capacité passe à travers les murs et obstacles.",
                     "displayIcon": "https://media.valorant-api.com/agents/5f8d3a7f-467b-97f3-062c-13acf203c006/abilities/grenade/displayicon.png"
                 },
                 {
-                    "slot": "Ultimate",
+                    "slot": "Ability4",
                     "displayName": "Rolling Thunder",
                     "description": "Breach s’équipe d’une charge sismique. TIREZ pour créer une onde de choc dans un large cône face à Breach, ralentissant et blessant les adversaires sur son passage. Cette capacité passe à travers les murs.",
                     "displayIcon": "https://media.valorant-api.com/agents/5f8d3a7f-467b-97f3-062c-13acf203c006/abilities/ultimate/displayicon.png"
@@ -217,13 +223,13 @@
                     "displayIcon": "https://media.valorant-api.com/agents/cc8b64c8-4b25-4ff9-6e7f-37b4da43d235/abilities/ability2/displayicon.png"
                 },
                 {
-                    "slot": "Grenade",
+                    "slot": "Ability3",
                     "displayName": "Barrier Mesh",
                     "description": "ÉQUIPEZ-vous du disque contenant le Filet de contention. TIREZ pour le lancer vers l’avant. À l’atterrissage, le disque déploie à partir du point d’origine une barrière bloquant l’avancée des agents.",
                     "displayIcon": "https://media.valorant-api.com/agents/cc8b64c8-4b25-4ff9-6e7f-37b4da43d235/abilities/grenade/displayicon.png"
                 },
                 {
-                    "slot": "Ultimate",
+                    "slot": "Ability4",
                     "displayName": "Annihilation",
                     "description": "ÉQUIPEZ-vous de l’Accélérateur de nanocâbles. TIREZ pour envoyer une salve de nanocâbles qui captureront le premier ennemi touché. L’ennemi ainsi emmailloté sera attiré en ligne droite, au bout de laquelle il mourra, à moins d’être libéré. Le cocon de nanocâbles est destructible.",
                     "displayIcon": "https://media.valorant-api.com/agents/cc8b64c8-4b25-4ff9-6e7f-37b4da43d235/abilities/ultimate/displayicon.png"
@@ -275,13 +281,13 @@
                     "displayIcon": "https://media.valorant-api.com/agents/f94c3b30-42be-e959-889c-5aa313dba261/abilities/ability2/displayicon.png"
                 },
                 {
-                    "slot": "Grenade",
+                    "slot": "Ability3",
                     "displayName": "Paint Shells",
                     "description": "Raze s’équipe d’une grenade à fragmentation. TIREZ pour jeter la grenade qui explose en faisant des dégâts autour d’elle, avant de se diviser en plus petites grenades qui explosent à leur tour autour de l’explosion initiale.",
                     "displayIcon": "https://media.valorant-api.com/agents/f94c3b30-42be-e959-889c-5aa313dba261/abilities/grenade/displayicon.png"
                 },
                 {
-                    "slot": "Ultimate",
+                    "slot": "Ability4",
                     "displayName": "Showstopper",
                     "description": "Raze s’équipe d’un lance-roquette. TIREZ pour lancer une roquette qui explose dès qu’elle rentre en contact avec un joueur ou un obstacle, créant une grande déflagration qui blesse les joueurs alentours.",
                     "displayIcon": "https://media.valorant-api.com/agents/f94c3b30-42be-e959-889c-5aa313dba261/abilities/ultimate/displayicon.png"
@@ -317,25 +323,25 @@
             "recruitmentData": null,
             "abilities": [
                 {
-                    "slot": "Ability2",
+                    "slot": "Ability1",
                     "displayName": "Rendezvous",
                     "description": "EQUIP a teleport anchor. FIRE to place it on the ground. While on the ground and in range of the anchor, REACTIVATE to quickly teleport to the anchor. The anchor can be picked up to be REDEPLOYED.",
                     "displayIcon": "https://media.valorant-api.com/agents/22697a3d-45bf-8dd7-4fec-84a9e28c69d7/abilities/ability2/displayicon.png"
                 },
                 {
-                    "slot": "Grenade",
+                    "slot": "Ability2",
                     "displayName": "Trademark",
                     "description": "EQUIP a trap that scans for enemies. FIRE to place it on the ground. When a visible enemy comes in range, the trap counts down and then destabilizes the terrain around them, creating a lingering field that Slows players caught inside of it. The trap can be picked up to be REDEPLOYED.",
                     "displayIcon": "https://media.valorant-api.com/agents/22697a3d-45bf-8dd7-4fec-84a9e28c69d7/abilities/grenade/displayicon.png"
                 },
                 {
-                    "slot": "Ability1",
+                    "slot": "Ability3",
                     "displayName": "Headhunter",
                     "description": "ACTIVATE to equip a heavy pistol. ALT FIRE with the pistol equipped to aim down sights.",
                     "displayIcon": "https://media.valorant-api.com/agents/22697a3d-45bf-8dd7-4fec-84a9e28c69d7/abilities/ability1/displayicon.png"
                 },
                 {
-                    "slot": "Ultimate",
+                    "slot": "Ability4",
                     "displayName": "Tour De Force",
                     "description": "ACTIVATE to summon a powerful, custom sniper rifle that will kill an enemy with any direct hit to the upper body. ALT FIRE to aim down sights. Killing an enemy creates a lingering field that Slows players caught inside of it.",
                     "displayIcon": "https://media.valorant-api.com/agents/22697a3d-45bf-8dd7-4fec-84a9e28c69d7/abilities/ultimate/displayicon.png"
@@ -371,25 +377,25 @@
             "recruitmentData": null,
             "abilities": [
                 {
-                    "slot": "Grenade",
+                    "slot": "Ability1",
                     "displayName": "FRAG/ment",
                     "description": "EQUIP an explosive fragment. FIRE to throw. ALT FIRE to lob. The fragment sticks to the floor and explodes multiple times, dealing near lethal damage at the center with each explosion.",
                     "displayIcon": "https://media.valorant-api.com/agents/601dbbe7-43ce-be57-2a40-4abd24953621/abilities/grenade/displayicon.png"
                 },
                 {
-                    "slot": "Ability1",
+                    "slot": "Ability2",
                     "displayName": "FLASH/drive",
                     "description": "EQUIP a flash grenade. FIRE to overhand throw. ALT FIRE to lob a weaker version that explodes quickly. The flash grenade explodes after a short fuse, Blinding anyone in line of sight.",
                     "displayIcon": "https://media.valorant-api.com/agents/601dbbe7-43ce-be57-2a40-4abd24953621/abilities/ability1/displayicon.png"
                 },
                 {
-                    "slot": "Ability2",
+                    "slot": "Ability3",
                     "displayName": "ZERO/point",
                     "description": "EQUIP a suppression blade. FIRE to throw. The blade sticks to the first surface it hits, winds up, and Suppresses anyone in the radius of the explosion. Enemies can destroy this blade.",
                     "displayIcon": "https://media.valorant-api.com/agents/601dbbe7-43ce-be57-2a40-4abd24953621/abilities/ability2/displayicon.png"
                 },
                 {
-                    "slot": "Ultimate",
+                    "slot": "Ability4",
                     "displayName": "NULL/cmd",
                     "description": "INSTANTLY overload with polarized radianite energy that pulses from KAY/O in a massive radius. Enemies hit with pulses are Suppressed for a short duration. While overloaded, KAY/O gains Combat Stim and can be re-stabilized if downed.",
                     "displayIcon": "https://media.valorant-api.com/agents/601dbbe7-43ce-be57-2a40-4abd24953621/abilities/ultimate/displayicon.png"
@@ -437,13 +443,13 @@
                     "displayIcon": "https://media.valorant-api.com/agents/6f2a04ca-43e0-be17-7f36-b3908627744d/abilities/ability2/displayicon.png"
                 },
                 {
-                    "slot": "Grenade",
+                    "slot": "Ability3",
                     "displayName": "Regrowth",
                     "description": "EQUIP a healing trinket.  HOLD FIRE to channel, Healing allies in range and line of sight.  Can be reused until her healing pool is depleted.  Skye cannot heal herself.",
                     "displayIcon": "https://media.valorant-api.com/agents/6f2a04ca-43e0-be17-7f36-b3908627744d/abilities/grenade/displayicon.png"
                 },
                 {
-                    "slot": "Ultimate",
+                    "slot": "Ability4",
                     "displayName": "Seekers",
                     "description": "EQUIP a Seeker trinket.  FIRE to send out three Seekers to track down the three closest enemies.  If a Seeker reaches its target, it Nearsights them. Enemies can destroy the Seekers.",
                     "displayIcon": "https://media.valorant-api.com/agents/6f2a04ca-43e0-be17-7f36-b3908627744d/abilities/ultimate/displayicon.png"
@@ -494,13 +500,13 @@
                     "displayIcon": "https://media.valorant-api.com/agents/117ed9e3-49f3-6512-3ccf-0cada7e3823b/abilities/ability2/displayicon.png"
                 },
                 {
-                    "slot": "Grenade",
+                    "slot": "Ability3",
                     "displayName": "Trapwire",
                     "description": "EQUIP a trapwire. FIRE to place a destructible and covert tripwire at the targeted location, creating a line that spans between the placed location and the wall opposite. Enemy players who cross a tripwire will be Tethered, Revealed, and Concussed after a short period if they do not destroy the device in time. This ability can be picked up to be REDEPLOYED.",
                     "displayIcon": "https://media.valorant-api.com/agents/117ed9e3-49f3-6512-3ccf-0cada7e3823b/abilities/grenade/displayicon.png"
                 },
                 {
-                    "slot": "Ultimate",
+                    "slot": "Ability4",
                     "displayName": "Neural Theft",
                     "description": "INSTANTLY use on a targeted dead enemy to download information on their team.  After a brief delay, the location of all living enemy players will be Revealed twice.",
                     "displayIcon": "https://media.valorant-api.com/agents/117ed9e3-49f3-6512-3ccf-0cada7e3823b/abilities/ultimate/displayicon.png"
@@ -551,13 +557,13 @@
                     "displayIcon": "https://media.valorant-api.com/agents/320b2a48-4d9b-a075-30f1-1f93a9b638fa/abilities/ability2/displayicon.png"
                 },
                 {
-                    "slot": "Grenade",
+                    "slot": "Ability3",
                     "displayName": "Owl Drone",
                     "description": "EQUIP an owl drone. FIRE to deploy and take control of movement of the drone. While in control of the drone, FIRE to shoot a marking dart. This dart will Reveal the location of any player struck by the dart. Enemies can destroy the Owl Drone.",
                     "displayIcon": "https://media.valorant-api.com/agents/320b2a48-4d9b-a075-30f1-1f93a9b638fa/abilities/grenade/displayicon.png"
                 },
                 {
-                    "slot": "Ultimate",
+                    "slot": "Ability4",
                     "displayName": "Hunter's Fury",
                     "description": "EQUIP a bow with three long-range, wall-piercing energy blasts. FIRE to release an energy blast in a line in front of Sova, dealing damage and Revealing the location of enemies caught in the line. This ability can be RE-USED up to two more times while the ability timer is active.",
                     "displayIcon": "https://media.valorant-api.com/agents/320b2a48-4d9b-a075-30f1-1f93a9b638fa/abilities/ultimate/displayicon.png"
@@ -602,25 +608,25 @@
             "recruitmentData": null,
             "abilities": [
                 {
-                    "slot": "Grenade",
+                    "slot": "Ability1",
                     "displayName": "Nanoswarm",
                     "description": "EQUIP a Nanoswarm grenade. FIRE to throw the grenade. Upon landing, the Nanoswarm goes covert. ALT FIRE to lob. ACTIVATE the Nanoswarm to deploy a damaging swarm of nanobots.  ",
                     "displayIcon": "https://media.valorant-api.com/agents/1e58de9c-4950-5125-93e9-a0aee9f98746/abilities/grenade/displayicon.png"
                 },
                 {
-                    "slot": "Ability1",
+                    "slot": "Ability2",
                     "displayName": "ALARMBOT",
                     "description": "EQUIP a covert Alarmbot. FIRE to deploy a bot that hunts down enemies that get in range.  After reaching its target, the bot explodes and applies Vulnerable to enemies in the area. HOLD EQUIP to recall a deployed bot.",
                     "displayIcon": "https://media.valorant-api.com/agents/1e58de9c-4950-5125-93e9-a0aee9f98746/abilities/ability1/displayicon.png"
                 },
                 {
-                    "slot": "Ability2",
+                    "slot": "Ability3",
                     "displayName": "TURRET",
                     "description": "EQUIP a Turret. FIRE to deploy a turret that fires at enemies in a 100 degree cone. ALT FIRE to swap turret direction. HOLD EQUIP to recall the deployed turret. ",
                     "displayIcon": "https://media.valorant-api.com/agents/1e58de9c-4950-5125-93e9-a0aee9f98746/abilities/ability2/displayicon.png"
                 },
                 {
-                    "slot": "Ultimate",
+                    "slot": "Ability4",
                     "displayName": "Lockdown",
                     "description": "EQUIP the Lockdown device. FIRE to deploy the device. After a long windup, the device Detains all enemies caught in the radius. The device can be destroyed by enemies.",
                     "displayIcon": "https://media.valorant-api.com/agents/1e58de9c-4950-5125-93e9-a0aee9f98746/abilities/ultimate/displayicon.png"
@@ -662,19 +668,19 @@
                     "displayIcon": "https://media.valorant-api.com/agents/95b78ed7-4637-86d9-7e41-71ba8c293152/abilities/ability1/displayicon.png"
                 },
                 {
-                    "slot": "Grenade",
+                    "slot": "Ability2",
                     "displayName": "Cascade",
                     "description": "EQUIP a wave of water. FIRE to send the wave rolling forward and through walls. RE-USE to stop the wave. Players hit are Slowed.",
                     "displayIcon": "https://media.valorant-api.com/agents/95b78ed7-4637-86d9-7e41-71ba8c293152/abilities/grenade/displayicon.png"
                 },
                 {
-                    "slot": "Ability2",
+                    "slot": "Ability3",
                     "displayName": "High Tide",
                     "description": "EQUIP a wall of water. FIRE to send the water forward along the ground. HOLD FIRE to guide the water in the direction of your crosshair, passing through the world, spawning a wall along the water’s path. ALT FIRE while bending to stop the water early. Players hit are Slowed.",
                     "displayIcon": "https://media.valorant-api.com/agents/95b78ed7-4637-86d9-7e41-71ba8c293152/abilities/ability2/displayicon.png"
                 },
                 {
-                    "slot": "Ultimate",
+                    "slot": "Ability4",
                     "displayName": "Reckoning",
                     "description": "EQUIP the full power of your Artifact. FIRE to summon a geyser pool on the ground. Enemy players in the area are targeted by successive geyser strikes. Players caught within a strike are Concussed.",
                     "displayIcon": "https://media.valorant-api.com/agents/95b78ed7-4637-86d9-7e41-71ba8c293152/abilities/ultimate/displayicon.png"
@@ -724,13 +730,13 @@
                     "displayIcon": "https://media.valorant-api.com/agents/707eab51-4836-f488-046a-cda6bf494859/abilities/ability2/displayicon.png"
                 },
                 {
-                    "slot": "Grenade",
+                    "slot": "Ability3",
                     "displayName": "Snake Bite",
                     "description": "EQUIP a chemical launcher. FIRE to launch a canister that shatters upon hitting the floor, creating a lingering chemical zone that damages and applies Vulnerable.",
                     "displayIcon": "https://media.valorant-api.com/agents/707eab51-4836-f488-046a-cda6bf494859/abilities/grenade/displayicon.png"
                 },
                 {
-                    "slot": "Ultimate",
+                    "slot": "Ability4",
                     "displayName": "Viper's Pit",
                     "description": "EQUIP a chemical sprayer. FIRE to spray a chemical cloud in all directions around Viper, creating a large cloud that Nearsights players and Decays the health of enemies inside of it. HOLD the ability key to disperse the cloud early.",
                     "displayIcon": "https://media.valorant-api.com/agents/707eab51-4836-f488-046a-cda6bf494859/abilities/ultimate/displayicon.png"
@@ -775,25 +781,25 @@
             "recruitmentData": null,
             "abilities": [
                 {
-                    "slot": "Grenade",
+                    "slot": "Ability1",
                     "displayName": "Blaze",
                     "description": "EQUIP a flame wall. FIRE to create a line of flame that moves forward, creating a wall of fire that blocks vision and damages players passing through it. The fire wall heals Phoenix instead of dealing damage. HOLD FIRE to bend the wall in the direction of your crosshair.",
                     "displayIcon": "https://media.valorant-api.com/agents/eb93336a-449b-9c1b-0a54-a891f7921d69/abilities/grenade/displayicon.png"
                 },
                 {
-                    "slot": "Ability1",
+                    "slot": "Ability2",
                     "displayName": "Curveball",
                     "description": "EQUIP a flare orb that takes a curving path and detonates shortly after throwing. FIRE to curve the flare orb to the left, detonating and Blinding any player who sees the orb. ALT FIRE to curve the flare orb to the right.",
                     "displayIcon": "https://media.valorant-api.com/agents/eb93336a-449b-9c1b-0a54-a891f7921d69/abilities/ability1/displayicon.png"
                 },
                 {
-                    "slot": "Ability2",
+                    "slot": "Ability3",
                     "displayName": "Hot Hands",
                     "description": "EQUIP a fireball. FIRE to throw a fireball that explodes after a set amount of time or upon hitting the ground, creating a lingering fire zone that damages enemies. The fire zone heals Phoenix instead of dealing damage. ALT FIRE to lob.",
                     "displayIcon": "https://media.valorant-api.com/agents/eb93336a-449b-9c1b-0a54-a891f7921d69/abilities/ability2/displayicon.png"
                 },
                 {
-                    "slot": "Ultimate",
+                    "slot": "Ability4",
                     "displayName": "Run it Back",
                     "description": "INSTANTLY place a marker at Phoenix's location. While this ability is active, dying or allowing the timer to expire will end this ability and bring Phoenix back to this location with full health and the amount of armor he had when the ability was cast.",
                     "displayIcon": "https://media.valorant-api.com/agents/eb93336a-449b-9c1b-0a54-a891f7921d69/abilities/ultimate/displayicon.png"
@@ -847,13 +853,13 @@
                     "displayIcon": "https://media.valorant-api.com/agents/41fb69c1-4189-7b37-f117-bcaf1e96f1bf/abilities/ability2/displayicon.png"
                 },
                 {
-                    "slot": "Grenade",
+                    "slot": "Ability3",
                     "displayName": "Gravity Well",
                     "description": "Place Stars in Astral Form (Ultimate Key).\r\n\r\nACTIVATE a Star to form a Gravity Well. Players in the area are pulled toward the center before it explodes, making all players still trapped inside Vulnerable.",
                     "displayIcon": "https://media.valorant-api.com/agents/41fb69c1-4189-7b37-f117-bcaf1e96f1bf/abilities/grenade/displayicon.png"
                 },
                 {
-                    "slot": "Ultimate",
+                    "slot": "Ability4",
                     "displayName": "Astral Form / Cosmic Divide",
                     "description": "ACTIVATE to enter Astral Form where you can place Stars with FIRE. Stars can be reactivated later, transforming them into a Nova Pulse, Nebula, or Gravity Well.\r\n\r\nWhen Cosmic Divide is charged, use ALT FIRE in Astral Form to begin aiming it, then FIRE to select two locations. An infinite Cosmic Divide connects the two points you select. Cosmic Divide blocks bullets and sound.",
                     "displayIcon": "https://media.valorant-api.com/agents/41fb69c1-4189-7b37-f117-bcaf1e96f1bf/abilities/ultimate/displayicon.png"
@@ -898,25 +904,25 @@
             "recruitmentData": null,
             "abilities": [
                 {
-                    "slot": "Grenade",
+                    "slot": "Ability1",
                     "displayName": "Stim Beacon",
                     "description": "INSTANTLY toss down a stim beacon. Upon landing, it creates a field that grants players a Combat Stim and a Speed Boost.",
                     "displayIcon": "https://media.valorant-api.com/agents/9f0d8ba9-4140-b941-57d3-a7ad57c6b417/abilities/grenade/displayicon.png"
                 },
                 {
-                    "slot": "Ability1",
+                    "slot": "Ability2",
                     "displayName": "Incendiary",
                     "description": "EQUIP an incendiary grenade launcher. FIRE to launch a grenade that detonates as it comes to a rest on the floor, creating a lingering fire zone that damages players within the zone.",
                     "displayIcon": "https://media.valorant-api.com/agents/9f0d8ba9-4140-b941-57d3-a7ad57c6b417/abilities/ability1/displayicon.png"
                 },
                 {
-                    "slot": "Ability2",
+                    "slot": "Ability3",
                     "displayName": "Sky Smoke",
                     "description": "EQUIP a tactical map. FIRE to set locations where Brimstone's smoke clouds will land. ALT FIRE to confirm, launching long-lasting smoke clouds that block vision in the selected area.",
                     "displayIcon": "https://media.valorant-api.com/agents/9f0d8ba9-4140-b941-57d3-a7ad57c6b417/abilities/ability2/displayicon.png"
                 },
                 {
-                    "slot": "Ultimate",
+                    "slot": "Ability4",
                     "displayName": "Orbital Strike",
                     "description": "EQUIP a tactical map. FIRE to launch a lingering orbital strike laser at the selected location, dealing high damage-over-time to players caught in the selected area.",
                     "displayIcon": "https://media.valorant-api.com/agents/9f0d8ba9-4140-b941-57d3-a7ad57c6b417/abilities/ultimate/displayicon.png"
@@ -966,19 +972,19 @@
                     "displayIcon": "https://media.valorant-api.com/agents/0e38b510-41a8-5780-5e8f-568b2a4f2d6c/abilities/ability1/displayicon.png"
                 },
                 {
-                    "slot": "Ultimate",
+                    "slot": "Ability2",
                     "displayName": "Kill Contract",
                     "description": "EQUIP an interdimensional arena. FIRE to hurl a column of energy through the battlefield, pulling you and the first enemy hit into the arena. You and your opponent duel to the death.",
                     "displayIcon": "https://media.valorant-api.com/agents/0e38b510-41a8-5780-5e8f-568b2a4f2d6c/abilities/ultimate/displayicon.png"
                 },
                 {
-                    "slot": "Ability2",
+                    "slot": "Ability3",
                     "displayName": "Double Tap",
                     "description": "START a focus timer. Once completed, enter a flow state during which downed enemies you kill or damage generate an energy orb. Shooting this orb grants you a shield which absorbs one instance of damage from any source.",
                     "displayIcon": "https://media.valorant-api.com/agents/0e38b510-41a8-5780-5e8f-568b2a4f2d6c/abilities/ability2/displayicon.png"
                 },
                 {
-                    "slot": "Grenade",
+                    "slot": "Ability4",
                     "displayName": "Contingency",
                     "description": "EQUIP to assemble prismatic energy. FIRE to push an indestructible wall of energy forward that blocks bullets.",
                     "displayIcon": "https://media.valorant-api.com/agents/0e38b510-41a8-5780-5e8f-568b2a4f2d6c/abilities/grenade/displayicon.png"
@@ -1014,25 +1020,25 @@
             "recruitmentData": null,
             "abilities": [
                 {
-                    "slot": "Ability2",
+                    "slot": "Ability1",
                     "displayName": "High Gear",
                     "description": "INSTANTLY channel Neon’s power for Increased Speed. When charged, ALT FIRE to trigger an electric slide. Slide charge resets every two kills.",
                     "displayIcon": "https://media.valorant-api.com/agents/bb2a4828-46eb-8cd1-e765-15848195d751/abilities/ability2/displayicon.png"
                 },
                 {
-                    "slot": "Ability1",
+                    "slot": "Ability2",
                     "displayName": "Relay Bolt",
                     "description": "INSTANTLY throw an energy bolt that bounces once. Upon hitting each surface, the bolt electrifies the ground below with a Concussive blast.",
                     "displayIcon": "https://media.valorant-api.com/agents/bb2a4828-46eb-8cd1-e765-15848195d751/abilities/ability1/displayicon.png"
                 },
                 {
-                    "slot": "Grenade",
+                    "slot": "Ability3",
                     "displayName": "Fast Lane",
                     "description": "FIRE two energy lines forward on the ground that extend a short distance or until they hit a surface. The lines rise into walls of static electricity that block vision.",
                     "displayIcon": "https://media.valorant-api.com/agents/bb2a4828-46eb-8cd1-e765-15848195d751/abilities/grenade/displayicon.png"
                 },
                 {
-                    "slot": "Ultimate",
+                    "slot": "Ability4",
                     "displayName": "Overdrive",
                     "description": "Unleash Neon’s full power and speed for a short duration. FIRE to channel the power into a deadly lightning beam with high movement accuracy.",
                     "displayIcon": "https://media.valorant-api.com/agents/bb2a4828-46eb-8cd1-e765-15848195d751/abilities/ultimate/displayicon.png"
@@ -1068,25 +1074,25 @@
             "recruitmentData": null,
             "abilities": [
                 {
-                    "slot": "Grenade",
+                    "slot": "Ability1",
                     "displayName": "FAKEOUT",
                     "description": "EQUIP an echo that transforms into a mirror image of Yoru when activated. FIRE to instantly activate the mirror image and send it forward. ALT FIRE to place an inactive echo. USE to transform an inactive echo into a mirror image and send it forward.  Mirror images explode in a Blinding flash when destroyed by enemies.",
                     "displayIcon": "https://media.valorant-api.com/agents/7f94d92c-4234-0a36-9646-3a87eb8b5c89/abilities/grenade/displayicon.png"
                 },
                 {
-                    "slot": "Ability1",
+                    "slot": "Ability2",
                     "displayName": "BLINDSIDE",
                     "description": "EQUIP to rip an unstable dimensional fragment from reality. FIRE to throw the fragment, activating a flash that winds up once it collides with a hard surface.",
                     "displayIcon": "https://media.valorant-api.com/agents/7f94d92c-4234-0a36-9646-3a87eb8b5c89/abilities/ability1/displayicon.png"
                 },
                 {
-                    "slot": "Ability2",
+                    "slot": "Ability3",
                     "displayName": "GATECRASH",
                     "description": "EQUIP a rift tether FIRE to send the tether forward. ALT FIRE to place a stationary tether. ACTIVATE to teleport to the tether's location. USE to trigger a fake teleport.",
                     "displayIcon": "https://media.valorant-api.com/agents/7f94d92c-4234-0a36-9646-3a87eb8b5c89/abilities/ability2/displayicon.png"
                 },
                 {
-                    "slot": "Ultimate",
+                    "slot": "Ability4",
                     "displayName": "DIMENSIONAL DRIFT",
                     "description": "EQUIP a mask that can see between dimensions. FIRE to drift into Yoru's dimension, unable to be affected or seen by enemies from the outside. REACTIVATE to exit Yoru's dimension early.",
                     "displayIcon": "https://media.valorant-api.com/agents/7f94d92c-4234-0a36-9646-3a87eb8b5c89/abilities/ultimate/displayicon.png"
@@ -1137,13 +1143,13 @@
                     "displayIcon": "https://media.valorant-api.com/agents/569fdd95-4d10-43ab-ca70-79becc718b46/abilities/ability2/displayicon.png"
                 },
                 {
-                    "slot": "Grenade",
+                    "slot": "Ability3",
                     "displayName": "Barrier Orb",
                     "description": "EQUIP a barrier orb. FIRE places a wall that fortifies after a few seconds. ALT FIRE rotates the targeter.",
                     "displayIcon": "https://media.valorant-api.com/agents/569fdd95-4d10-43ab-ca70-79becc718b46/abilities/grenade/displayicon.png"
                 },
                 {
-                    "slot": "Ultimate",
+                    "slot": "Ability4",
                     "displayName": "Resurrection",
                     "description": "EQUIP a resurrection ability. FIRE with your crosshairs placed over a dead ally to begin resurrecting them. After a brief channel, the ally will be brought back to life with full health.",
                     "displayIcon": "https://media.valorant-api.com/agents/569fdd95-4d10-43ab-ca70-79becc718b46/abilities/ultimate/displayicon.png"
@@ -1194,13 +1200,13 @@
                     "displayIcon": "https://media.valorant-api.com/agents/a3bfb853-43b2-7238-a4f1-ad90e9e46bcc/abilities/ability2/displayicon.png"
                 },
                 {
-                    "slot": "Grenade",
+                    "slot": "Ability3",
                     "displayName": "Leer",
                     "description": "EQUIP an ethereal, destructible eye. ACTIVATE to cast the eye a short distance forward. The eye will Nearsight all enemies who look at it.",
                     "displayIcon": "https://media.valorant-api.com/agents/a3bfb853-43b2-7238-a4f1-ad90e9e46bcc/abilities/grenade/displayicon.png"
                 },
                 {
-                    "slot": "Ultimate",
+                    "slot": "Ability4",
                     "displayName": "Empress",
                     "description": "INSTANTLY enter a frenzy, gaining a Combat Stim that increases firing, equip and reload speed dramatically. Gain infinite charges of Soul Harvest abilities. When an enemy dies to Reyna, or dies within 3 seconds of taking damage from Reyna, the duration is renewed.",
                     "displayIcon": "https://media.valorant-api.com/agents/a3bfb853-43b2-7238-a4f1-ad90e9e46bcc/abilities/ultimate/displayicon.png"
@@ -1251,13 +1257,13 @@
                     "displayIcon": "https://media.valorant-api.com/agents/8e253930-4c05-31dd-1b6c-968525494517/abilities/ability2/displayicon.png"
                 },
                 {
-                    "slot": "Grenade",
+                    "slot": "Ability3",
                     "displayName": "Shrouded Step",
                     "description": "EQUIP a shrouded step ability and see its range indicator. FIRE to begin a brief channel, then teleport to the marked location.",
                     "displayIcon": "https://media.valorant-api.com/agents/8e253930-4c05-31dd-1b6c-968525494517/abilities/grenade/displayicon.png"
                 },
                 {
-                    "slot": "Ultimate",
+                    "slot": "Ability4",
                     "displayName": "From the Shadows",
                     "description": "EQUIP a tactical map. FIRE to begin teleporting to the selected location. While teleporting, Omen will appear as a Shade that can be destroyed by an enemy to cancel his teleport, or PRESS EQUIP for Omen to cancel his teleport.",
                     "displayIcon": "https://media.valorant-api.com/agents/8e253930-4c05-31dd-1b6c-968525494517/abilities/ultimate/displayicon.png"
@@ -1308,13 +1314,13 @@
                     "displayIcon": "https://media.valorant-api.com/agents/add6443a-41bd-e414-f6ad-e58d267f4e95/abilities/ability2/displayicon.png"
                 },
                 {
-                    "slot": "Grenade",
+                    "slot": "Ability3",
                     "displayName": "Cloudburst",
                     "description": "INSTANTLY throw a projectile that expands into a brief vision-blocking cloud on impact with a surface. HOLD the ability key to curve the smoke in the direction of your crosshair.",
                     "displayIcon": "https://media.valorant-api.com/agents/add6443a-41bd-e414-f6ad-e58d267f4e95/abilities/grenade/displayicon.png"
                 },
                 {
-                    "slot": "Ultimate",
+                    "slot": "Ability4",
                     "displayName": "Blade Storm",
                     "description": "EQUIP a set of highly accurate throwing knives. FIRE to throw a single knife and recharge knives on a kill. ALT FIRE to throw all remaining daggers but does not recharge on a kill.",
                     "displayIcon": "https://media.valorant-api.com/agents/add6443a-41bd-e414-f6ad-e58d267f4e95/abilities/ultimate/displayicon.png"
