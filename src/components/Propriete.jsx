@@ -14,7 +14,7 @@ const Propriete = () => {
 
   console.log(item);
   return (
-    <div className="property">
+    <div className="property bg1">
       <Link to={"/agents"}>
         <FontAwesomeIcon className="icon-retour" icon={faChevronLeft} />
       </Link>

@@ -1,15 +1,10 @@
 .property {
     position: relative;
-    background-image: url("../assets/bg-2.png");
-    background-repeat: no-repeat;
-    background-position:center;
-    background-size: cover;
     min-height: 100%;
     height: auto;
     color: white;
     padding-left: 25px;
     font-weight: 500;
-    
 }
 
 .active {

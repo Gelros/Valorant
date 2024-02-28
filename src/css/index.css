@@ -6,6 +6,13 @@ body{
   margin: 0;
 }
 
+.bg1 {
+  background-image: url("../assets/bg-2.png");
+  background-repeat: no-repeat;
+  background-position:center;
+  background-size: cover;
+}
+
 .main{
   position: relative;
   height: 100vh;
