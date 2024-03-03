@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Valorant/static/css/main.a8a06873.css",
+    "main.js": "/Valorant/static/js/main.675d58c6.js",
+    "static/media/ValoAnimFond.mp4": "/Valorant/static/media/ValoAnimFond.e353e601203262585c09.mp4",
+    "static/media/bg-2.png": "/Valorant/static/media/bg-2.cb5cce14f0e9f41322e5.png",
+    "static/media/jett.png": "/Valorant/static/media/jett.030024e4da6e258f632b.png",
+    "index.html": "/Valorant/index.html",
+    "main.a8a06873.css.map": "/Valorant/static/css/main.a8a06873.css.map",
+    "main.675d58c6.js.map": "/Valorant/static/js/main.675d58c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8a06873.css",
+    "static/js/main.675d58c6.js"
+  ]
+}
