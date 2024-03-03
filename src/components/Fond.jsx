@@ -3,7 +3,7 @@ import vid from "../assets/ValoAnimFond.mp4"
 
 const Fond = () => {
     const loc = window.location.href
-
+    let locClear = loc.substring(22)
     return (
         <div className="bloc">
             
@@ -11,7 +11,7 @@ const Fond = () => {
 
             
             {
-            loc === "http://localhost:3000/" ? 
+            locClear === "" ?
             "" 
             :
             <div className="sombre delay"></div>
