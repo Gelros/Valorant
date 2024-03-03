@@ -3,7 +3,7 @@ import Data from "../data/map.json"
 
 const MapCard = () => {
     const loc = window.location.href
-    const id = loc.substring(65)
+    const id = loc.substring(64)
     console.log(id);
     const data = Data.find((data) => data.name === id)
     
