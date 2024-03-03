@@ -6,7 +6,7 @@ import { Link } from "react-router-dom";
 
 const Propriete = () => {
   const id = window.location.href;
-  let url = id.substring(60);
+  let url = id.substring(61);
   const data = Data.find((data) => data.uuid === url);
   console.log(url);
 
