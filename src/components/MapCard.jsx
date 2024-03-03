@@ -3,9 +3,10 @@ import Data from "../data/map.json"
 
 const MapCard = () => {
     const loc = window.location.href
-    const id = loc.substring(41)
+    const id = loc.substring(59)
+    console.log(id);
     const data = Data.find((data) => data.name === id)
-    console.log(data);
+    
     return (
         <div className='map-det bg1'>
             <div className="map-desc">
