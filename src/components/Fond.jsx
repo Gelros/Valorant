@@ -3,7 +3,7 @@ import vid from "../assets/ValoAnimFond.mp4"
 
 const Fond = () => {
     const loc = window.location.href
-    let locClear = loc.substring(22)
+    let locClear = loc.substring(39)
     return (
         <div className="bloc">
             

@@ -4,7 +4,9 @@ import Cate from "./Cate"
 import Boutons from "./Boutons"
 
 const Agents = () => {
-      
+    const id = window.location.href;
+    let url = id.substring();
+    console.log(url.length)
     //Stockage tableau de donnée persos dans un useState pour exporter la data
     const [item, setItem] = useState(Data)
     //Tableau pour les categories
