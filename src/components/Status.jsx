@@ -4,7 +4,7 @@ import Logo from "../assets/jett.png"
 
 const Status = () => {
     let loc = window.location.href
-    let locClear = loc.substring(39)
+    let locClear = loc.substring(40)
     console.log(locClear);
     
     return (
