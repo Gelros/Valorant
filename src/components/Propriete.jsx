@@ -12,7 +12,7 @@ const Propriete = () => {
 
   const [item, setItem] = useState(0);
 
-  console.log(item);
+  console.log(item, data);
   return (
     <div className="property bg1">
       <Link to={"/agents"}>
