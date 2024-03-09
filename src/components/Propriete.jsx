@@ -2,17 +2,16 @@ import React, { useState } from "react";
 import Data from "../data/persos.json";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faChevronLeft } from "@fortawesome/free-solid-svg-icons";
+import {useParams} from "react-router-dom"
 import { Link } from "react-router-dom";
 
 const Propriete = () => {
-  const id = window.location.href;
-  let url = id.substring(61);
-  const data = Data.find((data) => data.uuid === url);
-  console.log(url);
+  const params = useParams()
+  const id = params.id
+  const data = Data.find((e) => e.uuid === id)
 
   const [item, setItem] = useState(0);
 
-  console.log(item, data);
   return (
     <div className="property bg1">
       <Link to={"/agents"}>

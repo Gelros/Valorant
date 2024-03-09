@@ -1,10 +1,10 @@
 import React from 'react';
 import Data from "../data/map.json"
+import { useParams } from 'react-router-dom';
 
 const MapCard = () => {
-    const loc = window.location.href
-    const id = loc.substring(64)
-    console.log(id);
+    const params = useParams()
+    const id = params.id
     const data = Data.find((data) => data.name === id)
     
     return (

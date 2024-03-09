@@ -11,13 +11,13 @@ const Cate = ({item}) => {
             {
                 loc.includes("agents") ?
                 item?.map((e) => (
-                    <Link to={`property/${e.uuid}`} key={e.uuid} className="card">
+                    <Link to={`/${e.uuid}`} key={e.uuid} className="card">
                         <img src={e.displayIcon} alt="" />
                     </Link>
                 )) :
 
                 item?.map((e) => (
-                    <Link to={`map-details/${e.name}`} key={e.name} className="map-card">
+                    <Link to={`/cartes/${e.name}`} key={e.name} className="map-card">
                         <div className="container">
                             <img src={e.background} alt={e.name} className='bg-map' />
                             <h1>{e.name}</h1>
