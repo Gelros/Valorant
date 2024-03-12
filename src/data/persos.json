@@ -30,28 +30,28 @@
             "abilities": [
                 {
                     "slot": "Ability1",
-                    "vid" : "../assets/Vid/gekko/ab-1.mp4",
+                    "vid" : "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt7a75dbdd9b6c4220/64029b4743153734d1472d59/Website_Gekko_Dizzy_FNL.mp4",
                     "displayName": "Dizzy",
                     "description": "ÉQUIPEZ-vous de Verti. TIREZ pour envoyer Verti dans les airs. Verti charge son attaque, puis tire des projectiles de plasma sur les ennemis qui se trouvent dans son champ de vision. Les ennemis touchés par le plasma sont aveuglés. Quand Verti arrive à expiration, elle redevient un globule dormant. INTERAGISSEZ avec elle pour la récupérer et, après un court délai, pouvoir réutiliser Verti.",
                     "displayIcon": "https://media.valorant-api.com/agents/e370fa57-4757-3604-3648-499e1f642d3f/abilities/ability1/displayicon.png"
                 },
                 {
                     "slot": "Ability2",
-                    "vid" : "../assets/Vid/gekko/ab-2.mp4",
+                    "vid" : "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt79a9f8119f366ad1/64029afe10329144ff021282/Website_Gekko_Wingman_Stun_FNL.mp4",
                     "displayName": "Wingman",
                     "description": "ÉQUIPEZ-vous d’Altego. TIREZ pour envoyer Altego chercher des ennemis. Altego provoque une explosion désorientante en direction du premier ennemi qu’il voit. En visant un site de pose du spike ou un spike posé, utilisez le TIR SECONDAIRE pour l’envoyer poser ou désamorcer le spike. Pour poser le spike, Gekko doit l’avoir dans son inventaire. Quand Altego arrive à expiration, il redevient un globule dormant. INTERAGISSEZ avec lui pour récupérer le globule et, après un court délai, pouvoir réutiliser Altego.",
                     "displayIcon": "https://media.valorant-api.com/agents/e370fa57-4757-3604-3648-499e1f642d3f/abilities/ability2/displayicon.png"
                 },
                 {
                     "slot": "Ability3",
-                    "vid" : "../assets/Vid/gekko/ab-3.mp4",
+                    "vid" : "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltf9f635d9cb6cf999/64029aa343153734d1472d55/Website_Gekko_MoshPit_FNL.mp4",
                     "displayName": "Mosh Pit",
                     "description": "ÉQUIPEZ-vous de Pogo. TIREZ pour lancer la créature comme une grenade. Utilisez le TIR SECONDAIRE pour faire un lancer par en dessous. Pogo se multiplie dans une large zone à l’atterrissage, puis explose après un court délai.",
                     "displayIcon": "https://media.valorant-api.com/agents/e370fa57-4757-3604-3648-499e1f642d3f/abilities/grenade/displayicon.png"
                 },
                 {
                     "slot": "Ability4",
-                    "vid" : "../assets/Vid/gekko/ab-4.mp4",
+                    "vid" : "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt1a1188dafa478506/64029a1a205f2b7a60b74497/Website_Gekko_Thrash_FNL.mp4",
                     "displayName": "Mordicus",
                     "description": "ÉQUIPEZ-vous de Mordicus. TIREZ pour vous lier mentalement avec Mordicus et diriger la créature dans le territoire ennemi. ACTIVEZ pour bondir vers l’avant et exploser. Tous les ennemis dans un petit rayon sont retenus. Quand Mordicus arrive à expiration, elle redevient un globule dormant. INTERAGISSEZ avec elle pour récupérer le globule et, après un court délai, pouvoir réutiliser Mordicus. Mordicus peut être récupérée une fois.",
                     "displayIcon": "https://media.valorant-api.com/agents/e370fa57-4757-3604-3648-499e1f642d3f/abilities/ultimate/displayicon.png"
