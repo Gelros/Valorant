@@ -606,7 +606,7 @@
         {
             "uuid": "1e58de9c-4950-5125-93e9-a0aee9f98746",
             "displayName": "Killjoy",
-            "description": "The genius of Germany, Killjoy effortlessly secures key battlefield positions with her arsenal of inventions. If their damage doesn't take her enemies out, the debuff her robots provide will make short work of them.",
+            "description": "Killjoy est une Agent haute en couleurs qui fait partie des Sentinelles. Véritable génie originaire d’Allemagne, Killjoy sécurise et défend les positions clés à l’aide de pièges, de tourelles et de mines. Ses inventions punissent tout agresseur trop idiot pour abandonner. Elle contrôle les zones de combat et impose des timings d’attaque ou de défense désavantageux pour ses adversaires. En bref, elle porte très bien son nom.",
             "developerName": "Killjoy",
             "characterTags": [
                 "Defensive Lockdown",
@@ -636,29 +636,29 @@
                 {
                     "slot": "Ability1",
                     "vid":"",
-                    "displayName": "Nanoswarm",
-                    "description": "EQUIP a Nanoswarm grenade. FIRE to throw the grenade. Upon landing, the Nanoswarm goes covert. ALT FIRE to lob. ACTIVATE the Nanoswarm to deploy a damaging swarm of nanobots.  ",
+                    "displayName": "Essaim de Nanites (Nanoswarm)",
+                    "description": "ÉQUIPEZ-vous d’une grenade à essaim de nanites. TIREZ pour lancer la grenade. À l’atterrissage, la grenade se camoufle. ACTIVEZ la grenade pour déployer un essaim de nanites.  ",
                     "displayIcon": "https://media.valorant-api.com/agents/1e58de9c-4950-5125-93e9-a0aee9f98746/abilities/grenade/displayicon.png"
                 },
                 {
                     "slot": "Ability2",
                     "vid":"",
-                    "displayName": "ALARMBOT",
-                    "description": "EQUIP a covert Alarmbot. FIRE to deploy a bot that hunts down enemies that get in range.  After reaching its target, the bot explodes and applies Vulnerable to enemies in the area. HOLD EQUIP to recall a deployed bot.",
+                    "displayName": "Bot-Alarme (Alarmbot)",
+                    "description": "ÉQUIPEZ-vous d’un robot d’alarme camouflé. TIREZ pour déployer le robot au sol. Le robot se rend invisible et attend que des adversaires passent dans le coin. Lorsqu’Alarmbot détecte un ennemi, il devient visible et se dirige vers sa victime avant d’exploser. En plus des dégâts occasionnés, l’adversaire subit également l’altération d’état Vulnérable. MAINTENEZ LA TOUCHE D’ÉQUIPEMENT pour rappeler un robot déployé.",
                     "displayIcon": "https://media.valorant-api.com/agents/1e58de9c-4950-5125-93e9-a0aee9f98746/abilities/ability1/displayicon.png"
                 },
                 {
                     "slot": "Ability3",
                     "vid":"",
-                    "displayName": "TURRET",
-                    "description": "EQUIP a Turret. FIRE to deploy a turret that fires at enemies in a 100 degree cone. ALT FIRE to swap turret direction. HOLD EQUIP to recall the deployed turret. ",
+                    "displayName": "Tourelle (Turret)",
+                    "description": "ÉQUIPEZ-vous d’une tourelle. TIREZ pour déployer une tourelle automatique. La tourelle prend pour cible les ennemis dans un large cône d’une amplitude de 180 degrés. Killjoy peut ramasser la tourelle et la redéployer à un autre endroit au cours du round. La tourelle possède 100 PV. Elle fait 8 points de dégâts par tir qui diminuent avec la distance. Elle fait 6 points de dégâts par tir à moins de 20 mètres, puis 4 points de dégâts à partir de 35 mètres. ",
                     "displayIcon": "https://media.valorant-api.com/agents/1e58de9c-4950-5125-93e9-a0aee9f98746/abilities/ability2/displayicon.png"
                 },
                 {
                     "slot": "Ability4",
                     "vid":"",
-                    "displayName": "Lockdown",
-                    "description": "EQUIP the Lockdown device. FIRE to deploy the device. After a long windup, the device Detains all enemies caught in the radius. The device can be destroyed by enemies.",
+                    "displayName": "Confinement (Lockdown)",
+                    "description": "ÉQUIPEZ-vous d’un dispositif de confinement. TIREZ pour déployer le dispositif au sol. Le dispositif se met à emmagasiner de l’énergie pendant 13 secondes avant d’exploser sur une très large zone. Les ennemis pris dans l’explosion ne subissent pas de dégâts, mais leurs mouvements sont très lourdement impactés pendant 8 secondes. Le dispositif possède 200 PV et peut être détruit.",
                     "displayIcon": "https://media.valorant-api.com/agents/1e58de9c-4950-5125-93e9-a0aee9f98746/abilities/ultimate/displayicon.png"
                 }
             ],
@@ -667,7 +667,7 @@
         {
             "uuid": "95b78ed7-4637-86d9-7e41-71ba8c293152",
             "displayName": "Harbor",
-            "description": "Hailing from India’s coast, Harbor storms the field wielding ancient technology with dominion over water. He unleashes frothing rapids and crushing waves to shield his allies, or pummel those that oppose him.",
+            "description": "Harbor déferle sur le terrain grâce à une technologie antique qui lui permet de contrôler l’eau. Cet Agent déchaîne des torrents bouillonnants et de terribles lames d’eau pour protéger ses alliés et noyer ses adversaires.",
             "developerName": "Mage",
             "characterTags": null,
             "displayIcon": "https://media.valorant-api.com/agents/95b78ed7-4637-86d9-7e41-71ba8c293152/displayicon.png",
@@ -693,26 +693,26 @@
             "abilities": [
                 {
                     "slot": "Ability1",
-                    "displayName": "Cove",
-                    "description": "EQUIP a sphere of shielding water. FIRE to throw. ALT FIRE to lob. Upon impacting the ground, spawn a destructible water shield that blocks bullets.",
+                    "displayName": "Cascade ",
+                    "description": "Avec cette compétence, Harbor s’équipe d’une vague. TIREZ pour la déployer devant vous à travers les murs. RÉUTILISEZ pour empêcher la vague d’aller plus loin. Les joueurs touchés sont RALENTIS.",
                     "displayIcon": "https://media.valorant-api.com/agents/95b78ed7-4637-86d9-7e41-71ba8c293152/abilities/ability1/displayicon.png"
                 },
                 {
                     "slot": "Ability2",
-                    "displayName": "Cascade",
-                    "description": "EQUIP a wave of water. FIRE to send the wave rolling forward and through walls. RE-USE to stop the wave. Players hit are Slowed.",
+                    "displayName": "Dôme aqueux",
+                    "description": "Harbor équipe un bouclier d’eau sphérique. TIREZ pour le lancer. Utilisez le TIR SECONDAIRE pour faire un lancer par en dessous. Au contact du sol, la boule crée un bouclier aqueux capable d’arrêter les balles. Le bouclier se brise après un certain nombre de balles.",
                     "displayIcon": "https://media.valorant-api.com/agents/95b78ed7-4637-86d9-7e41-71ba8c293152/abilities/grenade/displayicon.png"
                 },
                 {
                     "slot": "Ability3",
-                    "displayName": "High Tide",
-                    "description": "EQUIP a wall of water. FIRE to send the water forward along the ground. HOLD FIRE to guide the water in the direction of your crosshair, passing through the world, spawning a wall along the water’s path. ALT FIRE while bending to stop the water early. Players hit are Slowed.",
+                    "displayName": "Marée haute",
+                    "description": "Harbor s’équipe d’un mur d’eau. TIREZ pour lancer l’eau vers l’avant, parallèlement au sol. MAINTENEZ LE TIR pour la guider dans la direction du viseur et créer un mur aqueux sur son passage. Il peut traverser le décor. Utilisez le TIR SECONDAIRE tout en guidant l’eau pour arrêter la compétence prématurément. Les joueurs touchés sont RALENTIS.",
                     "displayIcon": "https://media.valorant-api.com/agents/95b78ed7-4637-86d9-7e41-71ba8c293152/abilities/ability2/displayicon.png"
                 },
                 {
                     "slot": "Ability4",
-                    "displayName": "Reckoning",
-                    "description": "EQUIP the full power of your Artifact. FIRE to summon a geyser pool on the ground. Enemy players in the area are targeted by successive geyser strikes. Players caught within a strike are Concussed.",
+                    "displayName": "Geysers diluviens",
+                    "description": "Cette compétence libère toute la puissance de l’artéfact d’Harbor. TIREZ pour invoquer une flaque bouillonnante sur le sol. Les ennemis dans la zone sont frappés par des geysers successifs. Les joueurs touchés par un jet sont DÉSORIENTÉS. La flaque avance en ligne droite.",
                     "displayIcon": "https://media.valorant-api.com/agents/95b78ed7-4637-86d9-7e41-71ba8c293152/abilities/ultimate/displayicon.png"
                 }
             ],
@@ -721,7 +721,7 @@
         {
             "uuid": "707eab51-4836-f488-046a-cda6bf494859",
             "displayName": "Viper",
-            "description": "The American Chemist, Viper deploys an array of poisonous chemical devices to control the battlefield and choke the enemy's vision. If the toxins don't kill her prey, her mindgames surely will.",
+            "description": "L’Agent Viper fait partie des contrôleurs de Valorant. Grâce à ses capacités, elle peut affecter l’environnement en créant des zones dangereuses qui handicapent l’équipe ennemie, en affectant leur mouvement ou leur visibilité. Poisons et toxines sont donc ses armes de prédilection, et elle sera une alliée de choix pour contrôler le terrain et amener son équipe vers la victoire.",
             "developerName": "Pandemic",
             "characterTags": [
                 "Vision Control Specialist"
@@ -749,26 +749,26 @@
             "abilities": [
                 {
                     "slot": "Ability1",
-                    "displayName": "Poison Cloud",
-                    "description": "EQUIP a gas emitter. FIRE to throw the emitter that perpetually remains throughout the round. ALT FIRE to lob. RE-USE the ability to create a toxic gas cloud at the cost of fuel. This ability can be RE-USED more than once and can be picked up to be REDEPLOYED.",
+                    "displayName": "Morsure de Serpent (Snake Bite)",
+                    "description": "Viper s’équipe d’un lance-grenade chimique. Viper lance une capsule de poison qui se brise lorsqu’elle touche le sol, créant une flaque qui blesse tous les adversaires se tenant dessus et leur inflige l’altération d’état Fragile. Les unités récupèrent petit à petit leurs points de vie quand elles sortent du poison.",
                     "displayIcon": "https://media.valorant-api.com/agents/707eab51-4836-f488-046a-cda6bf494859/abilities/ability1/displayicon.png"
                 },
                 {
                     "slot": "Ability2",
-                    "displayName": "Toxic Screen",
-                    "description": "EQUIP a gas emitter launcher that penetrates terrain. FIRE to deploy a long line of gas emitters. RE-USE the ability to create a tall wall of toxic gas at the cost of fuel. This ability can be RE-USED more than once.",
+                    "displayName": "Nuage de Poison (Poison Cloud)",
+                    "description": "Viper s’équipe d’un émetteur de gaz. TIREZ pour jeter l’émetteur. RELANCEZ la capacité pour que l’émetteur crée un grand nuage de poison, impactant la visibilité et blessant les adversaires se tenant à l’intérieur. L’émetteur reste en place pour l’intégralité du round, mais peut être ramassé pour être utilisé à nouveau. Les unités récupèrent petit à petit leurs points de vie quand elles sortent du poison.",
                     "displayIcon": "https://media.valorant-api.com/agents/707eab51-4836-f488-046a-cda6bf494859/abilities/ability2/displayicon.png"
                 },
                 {
                     "slot": "Ability3",
-                    "displayName": "Snake Bite",
-                    "description": "EQUIP a chemical launcher. FIRE to launch a canister that shatters upon hitting the floor, creating a lingering chemical zone that damages and applies Vulnerable.",
+                    "displayName": "Écran Toxique (Toxic Screen)",
+                    "description": "Viper s’équipe d’un lance-diffuseur de gaz qui traverse les obstacles. TIREZ pour déployer des émetteurs sur une longue ligne face à Viper. RELANCEZ la capacité pour que l’émetteur crée un mur de poison, impactant la visibilité et blessant les adversaires le traversant. Les unités récupèrent petit à petit leurs points de vie quand elles sortent du poison.",
                     "displayIcon": "https://media.valorant-api.com/agents/707eab51-4836-f488-046a-cda6bf494859/abilities/grenade/displayicon.png"
                 },
                 {
                     "slot": "Ability4",
-                    "displayName": "Viper's Pit",
-                    "description": "EQUIP a chemical sprayer. FIRE to spray a chemical cloud in all directions around Viper, creating a large cloud that Nearsights players and Decays the health of enemies inside of it. HOLD the ability key to disperse the cloud early.",
+                    "displayName": "Nid de Vipères (Viper’s Pit)",
+                    "description": "Viper s’équipe d’un diffuseur chimique. TIREZ pour créer un large nuage de poison tout autour de Viper, réduisant la visibilité et blessant tous les adversaires se tenant à l’intérieur.  Le nuage ne se dissipe pas tant que Viper reste à l’intérieur. Les unités récupèrent petit à petit leurs points de vie quand elles sortent du poison.",
                     "displayIcon": "https://media.valorant-api.com/agents/707eab51-4836-f488-046a-cda6bf494859/abilities/ultimate/displayicon.png"
                 },
                 {
@@ -783,7 +783,7 @@
         {
             "uuid": "eb93336a-449b-9c1b-0a54-a891f7921d69",
             "displayName": "Phoenix",
-            "description": "Hailing from the U.K., Phoenix's star power shines through in his fighting style, igniting the battlefield with flash and flare. Whether he's got backup or not, he's rushing in to fight on his own terms.",
+            "description": "Duelliste de Valorant, Phoenix flamboie sur le champ de bataille. Ses capacités de feu très offensives lui permettent de blesser l’équipe adverse et d’entraver la vision et le déplacement des ennemis. Il porte d’ailleurs très bien son nom, puisque sa capacité ultime, Revanche, lui permet de réapparaître avec tous ses points de vie à l’endroit ciblé. ",
             "developerName": "Phoenix",
             "characterTags": [
                 "Flexibility",
@@ -812,26 +812,26 @@
             "abilities": [
                 {
                     "slot": "Ability1",
-                    "displayName": "Blaze",
-                    "description": "EQUIP a flame wall. FIRE to create a line of flame that moves forward, creating a wall of fire that blocks vision and damages players passing through it. The fire wall heals Phoenix instead of dealing damage. HOLD FIRE to bend the wall in the direction of your crosshair.",
+                    "displayName": "Brasier (Blaze)",
+                    "description": "Phoenix s’équipe d’un mur de feu. TIREZ pour créer une ligne de flamme créant un mur de feu bloquant la vision des joueurs et blessant les adversaires et alliés qui passent à travers. MAINTENEZ votre tir pour légèrement dévier la trajectoire du mur vers votre viseur.",
                     "displayIcon": "https://media.valorant-api.com/agents/eb93336a-449b-9c1b-0a54-a891f7921d69/abilities/grenade/displayicon.png"
                 },
                 {
                     "slot": "Ability2",
-                    "displayName": "Curveball",
-                    "description": "EQUIP a flare orb that takes a curving path and detonates shortly after throwing. FIRE to curve the flare orb to the left, detonating and Blinding any player who sees the orb. ALT FIRE to curve the flare orb to the right.",
+                    "displayName": "Balle Courbe (Curveball)",
+                    "description": "Phoenix s’équipe d’un orbe qui explose peu après avoir été lancé, aveuglant les unités qui le regardaient. TIREZ pour que le tir de l’orbe décrive une courbe vers la gauche. TIR ALTERNATIF pour que l’orbe décrive une courbe vers la droite.",
                     "displayIcon": "https://media.valorant-api.com/agents/eb93336a-449b-9c1b-0a54-a891f7921d69/abilities/ability1/displayicon.png"
                 },
                 {
                     "slot": "Ability3",
-                    "displayName": "Hot Hands",
-                    "description": "EQUIP a fireball. FIRE to throw a fireball that explodes after a set amount of time or upon hitting the ground, creating a lingering fire zone that damages enemies. The fire zone heals Phoenix instead of dealing damage. ALT FIRE to lob.",
+                    "displayName": "Mains Brûlantes (Hot Hands)",
+                    "description": "Phoenix s’équipe d’une boule de feu. TIREZ pour lancer la boule de feu qui explose en touchant le sol, créant une zone enflammée qui blesse les unités qui se tiennent dessus. Phoenix peut aussi s’en servir pour se soigner.",
                     "displayIcon": "https://media.valorant-api.com/agents/eb93336a-449b-9c1b-0a54-a891f7921d69/abilities/ability2/displayicon.png"
                 },
                 {
                     "slot": "Ability4",
-                    "displayName": "Run it Back",
-                    "description": "INSTANTLY place a marker at Phoenix's location. While this ability is active, dying or allowing the timer to expire will end this ability and bring Phoenix back to this location with full health and the amount of armor he had when the ability was cast.",
+                    "displayName": "Revanche (Run it back)",
+                    "description": "Phoenix place une marque au sol. Si Phoenix meurt ou que la durée de la capacité expire, Phoenix réapparaît sur la marque avec tous ses points de vie.",
                     "displayIcon": "https://media.valorant-api.com/agents/eb93336a-449b-9c1b-0a54-a891f7921d69/abilities/ultimate/displayicon.png"
                 },
                 {
@@ -846,7 +846,7 @@
         {
             "uuid": "41fb69c1-4189-7b37-f117-bcaf1e96f1bf",
             "displayName": "Astra",
-            "description": "Ghanaian Agent Astra harnesses the energies of the cosmos to reshape battlefields to her whim. With full command of her astral form and a talent for deep strategic foresight, she's always eons ahead of her enemy's next move.",
+            "description": "Astra est un Agent complexe, capable de déployer ses compétences à n’importe quel point de la map. Cette contrôleuse exige une excellente vision de jeu, un sens du timing aiguisé ainsi qu’une bonne communication avec les alliés.",
             "developerName": "Rift",
             "characterTags": null,
             "displayIcon": "https://media.valorant-api.com/agents/41fb69c1-4189-7b37-f117-bcaf1e96f1bf/displayicon.png",
@@ -872,26 +872,26 @@
             "abilities": [
                 {
                     "slot": "Ability1",
-                    "displayName": "Nova Pulse",
-                    "description": "Place Stars in Astral Form (Ultimate Key).\r\n\r\nACTIVATE a Star to detonate a Nova Pulse. The Nova Pulse charges briefly then strikes, Concussing all players in its area.",
+                    "displayName": "Puits de Gravité (Gravity Well)",
+                    "description": "ACTIVEZ une étoile pour former un puits de gravité. Les joueurs dans la zone sont attirés vers le centre avant qu’il n’explose. L’explosion applique l’altération d’état Vulnérable aux joueurs piégés",
                     "displayIcon": "https://media.valorant-api.com/agents/41fb69c1-4189-7b37-f117-bcaf1e96f1bf/abilities/ability1/displayicon.png"
                 },
                 {
                     "slot": "Ability2",
-                    "displayName": "Nebula  / Dissipate",
-                    "description": "Place Stars in Astral Form (Ultimate Key). \r\n\r\nACTIVATE a Star to transform it into a Nebula (smoke).\r\n\r\nUSE a Star to Dissipate it, returning the Star to be placed in a new location after a delay.\r\n\r\nDissipate briefly forms a fake Nebula at the Star's location before returning.",
+                    "displayName": "Impulsion Nova (Nova Pulse)",
+                    "description": "ACTIVEZ une étoile pour faire exploser une impulsion nova. L’impulsion nova se charge brièvement avant d’exploser, désorientant tous les joueurs dans son rayon d’effet.",
                     "displayIcon": "https://media.valorant-api.com/agents/41fb69c1-4189-7b37-f117-bcaf1e96f1bf/abilities/ability2/displayicon.png"
                 },
                 {
                     "slot": "Ability3",
-                    "displayName": "Gravity Well",
-                    "description": "Place Stars in Astral Form (Ultimate Key).\r\n\r\nACTIVATE a Star to form a Gravity Well. Players in the area are pulled toward the center before it explodes, making all players still trapped inside Vulnerable.",
+                    "displayName": "Nébuleuse (Nebula)",
+                    "description": "ACTIVEZ une étoile pour la transformer en nébuleuse (fumigène). UTILISEZ (F) une étoile pour la dissiper, ce qui vous permettra d’en placer une autre à un autre endroit après un délai. La dissipation forme brièvement une fausse nébuleuse à l’emplacement de l’étoile.",
                     "displayIcon": "https://media.valorant-api.com/agents/41fb69c1-4189-7b37-f117-bcaf1e96f1bf/abilities/grenade/displayicon.png"
                 },
                 {
                     "slot": "Ability4",
-                    "displayName": "Astral Form / Cosmic Divide",
-                    "description": "ACTIVATE to enter Astral Form where you can place Stars with FIRE. Stars can be reactivated later, transforming them into a Nova Pulse, Nebula, or Gravity Well.\r\n\r\nWhen Cosmic Divide is charged, use ALT FIRE in Astral Form to begin aiming it, then FIRE to select two locations. An infinite Cosmic Divide connects the two points you select. Cosmic Divide blocks bullets and sound.",
+                    "displayName": "Division Cosmique (Cosmic Divide)",
+                    "description": "Lorsque Division cosmique est chargée, utilisez le TIR SECONDAIRE en forme astrale pour viser, puis le TIR PRINCIPAL pour sélectionner deux emplacements. Une division cosmique infinie connectera les deux points sélectionnés. La division cosmique bloque les balles et étouffe fortement les sons.",
                     "displayIcon": "https://media.valorant-api.com/agents/41fb69c1-4189-7b37-f117-bcaf1e96f1bf/abilities/ultimate/displayicon.png"
                 },
                 {
@@ -906,7 +906,7 @@
         {
             "uuid": "9f0d8ba9-4140-b941-57d3-a7ad57c6b417",
             "displayName": "Brimstone",
-            "description": "Joining from the U.S.A., Brimstone's orbital arsenal ensures his squad always has the advantage. His ability to deliver utility precisely and safely make him the unmatched boots-on-the-ground commander.",
+            "description": "L’arsenal orbital de Brimstone permet à son escouade de toujours avoir l’avantage. La précision et la fiabilité de ses compétences utilitaires font de lui un commandant sans égal sur le terrain.",
             "developerName": "Sarge",
             "characterTags": [
                 "Vision Control",
@@ -935,26 +935,26 @@
             "abilities": [
                 {
                     "slot": "Ability1",
-                    "displayName": "Stim Beacon",
-                    "description": "INSTANTLY toss down a stim beacon. Upon landing, it creates a field that grants players a Combat Stim and a Speed Boost.",
+                    "displayName": "Balise Stimulante (Stim Beacon)",
+                    "description": "Brimstone jette INSTANTANÉMENT une balise au sol, créant une large zone augmentant la cadence de tir et la vitesse de déplacement de tous les joueurs se tenant à l’intérieur.",
                     "displayIcon": "https://media.valorant-api.com/agents/9f0d8ba9-4140-b941-57d3-a7ad57c6b417/abilities/grenade/displayicon.png"
                 },
                 {
                     "slot": "Ability2",
-                    "displayName": "Incendiary",
-                    "description": "EQUIP an incendiary grenade launcher. FIRE to launch a grenade that detonates as it comes to a rest on the floor, creating a lingering fire zone that damages players within the zone.",
+                    "displayName": "Bombe Incendiaire (Incendiary)",
+                    "description": "Brimstone s’équipe d’un lance-grenade incendiaire. TIREZ pour lancer une grenade qui explose dès qu’elle touche le sol, créant une large zone enflammée blessant tous les joueurs qui se tiennent dessus.",
                     "displayIcon": "https://media.valorant-api.com/agents/9f0d8ba9-4140-b941-57d3-a7ad57c6b417/abilities/ability1/displayicon.png"
                 },
                 {
                     "slot": "Ability3",
-                    "displayName": "Sky Smoke",
-                    "description": "EQUIP a tactical map. FIRE to set locations where Brimstone's smoke clouds will land. ALT FIRE to confirm, launching long-lasting smoke clouds that block vision in the selected area.",
+                    "displayName": "Frappe Fumigène (Sky Smoke)",
+                    "description": "Brimstone affiche la carte aux alentours. TIREZ pour marquer jusqu’à trois endroits sur la carte. TIR ALTERNATIF pour faire tomber du ciel des grenades fumigènes qui créent un nuage impactant la vision.",
                     "displayIcon": "https://media.valorant-api.com/agents/9f0d8ba9-4140-b941-57d3-a7ad57c6b417/abilities/ability2/displayicon.png"
                 },
                 {
                     "slot": "Ability4",
-                    "displayName": "Orbital Strike",
-                    "description": "EQUIP a tactical map. FIRE to launch a lingering orbital strike laser at the selected location, dealing high damage-over-time to players caught in the selected area.",
+                    "displayName": "Rayon Orbital (Orbital Strike)",
+                    "description": "Brimstone affiche la carte aux alentours. TIREZ pour lancer une frappe orbitale à l’endroit ciblé sur la carte, infligeant énormément de dégâts aux ennemis dans la zone. Avant de tomber, la zone ciblée par Brimstone est visible par les ennemis, ce qui leur permet de s’échapper.",
                     "displayIcon": "https://media.valorant-api.com/agents/9f0d8ba9-4140-b941-57d3-a7ad57c6b417/abilities/ultimate/displayicon.png"
                 }
             ],
@@ -963,7 +963,7 @@
         {
             "uuid": "0e38b510-41a8-5780-5e8f-568b2a4f2d6c",
             "displayName": "Iso",
-            "description": "Chinese fixer for hire Iso falls into a flow state to dismantle the opposition. Reconfiguring ambient energy into bulletproof protection, he advances with focus towards his next duel to the death.",
+            "description": "Iso est un véritable assassin. Ce duelliste profite ainsi de compétences qui l’aident dans son travail de tueur à gages. Il requiert un excellent aim, ainsi qu’une réactivité exemplaire même en situation tendue. Les duels à mort, il connaît !",
             "developerName": "Sequoia",
             "characterTags": null,
             "displayIcon": "https://media.valorant-api.com/agents/0e38b510-41a8-5780-5e8f-568b2a4f2d6c/displayicon.png",
@@ -997,26 +997,26 @@
             "abilities": [
                 {
                     "slot": "Ability1",
-                    "displayName": "Undercut",
-                    "description": "EQUIP a molecular bolt. FIRE to throw it forward, briefly applying Vulnerable to all players it touches. The bolt can pass through solid objects, including walls.",
+                    "displayName": "Tir couplé",
+                    "description": "LANCEZ un décompte de concentration. À la fin, vous entrez dans un état fluide pendant lequel les ennemis abattus que vous avez tués ou blessés génèrent un orbe d’énergie. Tirer sur cet orbe vous confère un bouclier absorbant une salve de dégâts de n’importe quelle source.",
                     "displayIcon": "https://media.valorant-api.com/agents/0e38b510-41a8-5780-5e8f-568b2a4f2d6c/abilities/ability1/displayicon.png"
                 },
                 {
                     "slot": "Ability2",
-                    "displayName": "Kill Contract",
-                    "description": "EQUIP an interdimensional arena. FIRE to hurl a column of energy through the battlefield, pulling you and the first enemy hit into the arena. You and your opponent duel to the death.",
+                    "displayName": "Sape",
+                    "description": "ÉQUIPEZ-vous d’un carreau moléculaire. Tirez pour le lancer vers l’avant, ce qui rend brièvement FRAGILES tous les joueurs touchés. Le carreau peut traverser les objets solides, murs y compris.",
                     "displayIcon": "https://media.valorant-api.com/agents/0e38b510-41a8-5780-5e8f-568b2a4f2d6c/abilities/ultimate/displayicon.png"
                 },
                 {
                     "slot": "Ability3",
-                    "displayName": "Double Tap",
-                    "description": "START a focus timer. Once completed, enter a flow state during which downed enemies you kill or damage generate an energy orb. Shooting this orb grants you a shield which absorbs one instance of damage from any source.",
+                    "displayName": "Contingence",
+                    "description": "PRÉPAREZ une concentration d’énergie prismatique. Utilisez le TIR PRINCIPAL pour projeter un mur d’énergie indestructible qui bloque les balles.",
                     "displayIcon": "https://media.valorant-api.com/agents/0e38b510-41a8-5780-5e8f-568b2a4f2d6c/abilities/ability2/displayicon.png"
                 },
                 {
                     "slot": "Ability4",
-                    "displayName": "Contingency",
-                    "description": "EQUIP to assemble prismatic energy. FIRE to push an indestructible wall of energy forward that blocks bullets.",
+                    "displayName": "Duel à huis clos",
+                    "description": "ÉQUIPEZ-vous d’une arène inter-dimensionnelle. Utilisez le TIR PRINCIPAL pour produire une colonne d’énergie sur le terrain, attirant le premier ennemi touché avec vous dans l’arène. Vous vous y affrontez dans un duel à mort.",
                     "displayIcon": "https://media.valorant-api.com/agents/0e38b510-41a8-5780-5e8f-568b2a4f2d6c/abilities/grenade/displayicon.png"
                 }
             ],
@@ -1025,7 +1025,7 @@
         {
             "uuid": "bb2a4828-46eb-8cd1-e765-15848195d751",
             "displayName": "Neon",
-            "description": "Filipino Agent Neon surges forward at shocking speeds, discharging bursts of bioelectric radiance as fast as her body generates it. She races ahead to catch enemies off guard then strikes them down quicker than lightning.",
+            "description": "Neon est une duelliste Philippine qui fait la part belle à la vitesse ! Capable de sprinter et de glisser, elle dispose d’options de mobilité uniques. Sa capacité ultime en fait un électron libre d’une puissance redoutable.",
             "developerName": "Sprinter",
             "characterTags": null,
             "displayIcon": "https://media.valorant-api.com/agents/bb2a4828-46eb-8cd1-e765-15848195d751/displayicon.png",
@@ -1051,26 +1051,26 @@
             "abilities": [
                 {
                     "slot": "Ability1",
-                    "displayName": "High Gear",
-                    "description": "INSTANTLY channel Neon’s power for Increased Speed. When charged, ALT FIRE to trigger an electric slide. Slide charge resets every two kills.",
+                    "displayName": "Voie Rapide (Fast Lane)",
+                    "description": "TIREZ deux lignes d’énergie dans le sol devant vous. Après avoir parcouru une courte distance ou touché une surface, elles créent des murs d’électricité statique qui bloquent la vision et blessent les ennemis qui les traversent.",
                     "displayIcon": "https://media.valorant-api.com/agents/bb2a4828-46eb-8cd1-e765-15848195d751/abilities/ability2/displayicon.png"
                 },
                 {
                     "slot": "Ability2",
-                    "displayName": "Relay Bolt",
-                    "description": "INSTANTLY throw an energy bolt that bounces once. Upon hitting each surface, the bolt electrifies the ground below with a Concussive blast.",
+                    "displayName": "Éclair relais (Relay bolt)",
+                    "description": "Lancez INSTANTANÉMENT un éclair d’énergie qui rebondit une fois. Chaque fois qu’il rencontre une surface, l’éclair électrifie le sol en dessous avec une explosion désorientante.",
                     "displayIcon": "https://media.valorant-api.com/agents/bb2a4828-46eb-8cd1-e765-15848195d751/abilities/ability1/displayicon.png"
                 },
                 {
                     "slot": "Ability3",
-                    "displayName": "Fast Lane",
-                    "description": "FIRE two energy lines forward on the ground that extend a short distance or until they hit a surface. The lines rise into walls of static electricity that block vision.",
+                    "displayName": "Vitesse supérieure (High Gear)",
+                    "description": "Chargez INSTANTANÉMENT le pouvoir de Néon pour décupler sa vitesse. À la fin du chargement, utilisez le TIR SECONDAIRE pour faire une glissade électrique. Vous regagnez une charge de glissade toutes les deux éliminations.",
                     "displayIcon": "https://media.valorant-api.com/agents/bb2a4828-46eb-8cd1-e765-15848195d751/abilities/grenade/displayicon.png"
                 },
                 {
                     "slot": "Ability4",
-                    "displayName": "Overdrive",
-                    "description": "Unleash Neon’s full power and speed for a short duration. FIRE to channel the power into a deadly lightning beam with high movement accuracy.",
+                    "displayName": "Ultra Vitesse (Overdrive)",
+                    "description": "Libérez toute la puissance et la vitesse de Néon pendant un court instant. TIREZ pour canaliser son pouvoir en un rayon électrique mortel dont la précision reste élevée même en mouvement. La durée et la glissade se réinitialisent à chaque élimination.",
                     "displayIcon": "https://media.valorant-api.com/agents/bb2a4828-46eb-8cd1-e765-15848195d751/abilities/ultimate/displayicon.png"
                 }
             ],
@@ -1079,7 +1079,7 @@
         {
             "uuid": "7f94d92c-4234-0a36-9646-3a87eb8b5c89",
             "displayName": "Yoru",
-            "description": "Japanese native Yoru rips holes straight through reality to infiltrate enemy lines unseen. Using deception and aggression in equal measure, he gets the drop on each target before they know where to look.",
+            "description": "Yoru est un Agent qui aime tromper les sens de ses adversaires. Impossible de se fier à ses yeux ou à ses oreilles quand il prend part au combat. Yoru est un Duelliste japonais capable de se déplacer sans être vu ou de faire croire qu’il se déplace. Il s’agit d’un Agent très technique à utiliser.",
             "developerName": "Stealth",
             "characterTags": null,
             "displayIcon": "https://media.valorant-api.com/agents/7f94d92c-4234-0a36-9646-3a87eb8b5c89/displayicon.png",
@@ -1105,26 +1105,26 @@
             "abilities": [
                 {
                     "slot": "Ability1",
-                    "displayName": "FAKEOUT",
-                    "description": "EQUIP an echo that transforms into a mirror image of Yoru when activated. FIRE to instantly activate the mirror image and send it forward. ALT FIRE to place an inactive echo. USE to transform an inactive echo into a mirror image and send it forward.  Mirror images explode in a Blinding flash when destroyed by enemies.",
+                    "displayName": "Feinte (Fake Out)",
+                    "description": "ÉQUIPEZ-vous d’un écho qui se transforme en double de Yoru une fois activé. TIREZ pour activer instantanément le double et l’envoyer vers l’avant. Utilisez le TIR SECONDAIRE pour poser un écho inactif devant vous sans l’activer. UTILISEZ un écho inactif pour le transformer en double et l’envoyer vers l’avant. Le double explose en émettant une lumière aveuglante quand les ennemis le détruisent.",
                     "displayIcon": "https://media.valorant-api.com/agents/7f94d92c-4234-0a36-9646-3a87eb8b5c89/abilities/grenade/displayicon.png"
                 },
                 {
                     "slot": "Ability2",
-                    "displayName": "BLINDSIDE",
-                    "description": "EQUIP to rip an unstable dimensional fragment from reality. FIRE to throw the fragment, activating a flash that winds up once it collides with a hard surface.",
+                    "displayName": "Angle Mort (Blindside)",
+                    "description": "EQUIPEZ-vous d’un fragment dimensionnel instable arraché à la réalité. TIREZ pour lancer le fragment, qui provoquera un éclat aveuglant peu après avoir touché une surface dure.",
                     "displayIcon": "https://media.valorant-api.com/agents/7f94d92c-4234-0a36-9646-3a87eb8b5c89/abilities/ability1/displayicon.png"
                 },
                 {
                     "slot": "Ability3",
-                    "displayName": "GATECRASH",
-                    "description": "EQUIP a rift tether FIRE to send the tether forward. ALT FIRE to place a stationary tether. ACTIVATE to teleport to the tether's location. USE to trigger a fake teleport.",
+                    "displayName": "Visite Surprise (Gatecrash)",
+                    "description": "EQUIPEZ-vous d’une balise dimensionnelle. TIREZ pour envoyer la balise vers l’avant. UTILISEZ le tir secondaire pour poser la balise devant vous. Activez la balise pour vous y téléporter. UTILISEZ la balise pour feindre la téléportation.",
                     "displayIcon": "https://media.valorant-api.com/agents/7f94d92c-4234-0a36-9646-3a87eb8b5c89/abilities/ability2/displayicon.png"
                 },
                 {
                     "slot": "Ability4",
-                    "displayName": "DIMENSIONAL DRIFT",
-                    "description": "EQUIP a mask that can see between dimensions. FIRE to drift into Yoru's dimension, unable to be affected or seen by enemies from the outside. REACTIVATE to exit Yoru's dimension early.",
+                    "displayName": "Transfert Dimensionnel (Dimensional Drift)",
+                    "description": "EQUIPEZ-vous d’un masque qui permet de voir entre les dimensions. TIREZ pour passer dans la dimension de Yoru ; les ennemis hors de la zone ne peuvent ni vous voir ni vous affecter.",
                     "displayIcon": "https://media.valorant-api.com/agents/7f94d92c-4234-0a36-9646-3a87eb8b5c89/abilities/ultimate/displayicon.png"
                 }
             ],
@@ -1133,7 +1133,7 @@
         {
             "uuid": "569fdd95-4d10-43ab-ca70-79becc718b46",
             "displayName": "Sage",
-            "description": "The bastion of China, Sage creates safety for herself and her team wherever she goes. Able to revive fallen friends and stave off forceful assaults, she provides a calm center to a hellish battlefield.",
+            "description": "L’Agent Sage est l’une des sentinelles de Valorant. Son kit de compétences est très utile, et lui permet à la fois de réduire le mouvement ou la vision des adversaires, mais également de soigner ou de ressusciter un allié. Elle est très complète et sera assurément un Agent de choix à intégrer à votre équipe. ",
             "developerName": "Thorne",
             "characterTags": [
                 "Recovery",
@@ -1162,26 +1162,26 @@
             "abilities": [
                 {
                     "slot": "Ability1",
-                    "displayName": "Slow Orb",
-                    "description": "EQUIP a slowing orb. FIRE to throw a slowing orb forward that detonates upon landing, creating a lingering field that Slows players caught inside of it.",
+                    "displayName": "Orbe Barrière (Barrier Orb)",
+                    "description": "Sage s’équipe d’un orbe mural. TIREZ pour créer un mur solide bloquant la vision, les tirs et les mouvements de toutes les unités. TIR ALTERNATIF pour changer l’angle du mur. Le mur se désagrège petit à petit avec le temps ou quand il subit des tirs.",
                     "displayIcon": "https://media.valorant-api.com/agents/569fdd95-4d10-43ab-ca70-79becc718b46/abilities/ability1/displayicon.png"
                 },
                 {
                     "slot": "Ability2",
-                    "displayName": "Healing Orb",
-                    "description": "EQUIP a healing orb. FIRE with your crosshairs over a damaged ally to activate a Heal-Over-Time on them. ALT FIRE while Sage is damaged to activate a self Heal-Over-Time.",
+                    "displayName": "Orbe de Lenteur (Slow Orb)",
+                    "description": "Sage s’équipe d’un orbe de ralentissement. TIREZ pour lancer l’orbe qui explose en touchant le sol, créant une large zone ralentissant les joueurs se tenant dessus.",
                     "displayIcon": "https://media.valorant-api.com/agents/569fdd95-4d10-43ab-ca70-79becc718b46/abilities/ability2/displayicon.png"
                 },
                 {
                     "slot": "Ability3",
-                    "displayName": "Barrier Orb",
-                    "description": "EQUIP a barrier orb. FIRE places a wall that fortifies after a few seconds. ALT FIRE rotates the targeter.",
+                    "displayName": "Orbe de Soin (Healing Orb)",
+                    "description": "Sage s’équipe d’un orbe de soin. TIREZ sur un allié pour le soigner. TIR ALTERNATIF pour vous soigner vous-même.",
                     "displayIcon": "https://media.valorant-api.com/agents/569fdd95-4d10-43ab-ca70-79becc718b46/abilities/grenade/displayicon.png"
                 },
                 {
                     "slot": "Ability4",
-                    "displayName": "Resurrection",
-                    "description": "EQUIP a resurrection ability. FIRE with your crosshairs placed over a dead ally to begin resurrecting them. After a brief channel, the ally will be brought back to life with full health.",
+                    "displayName": "Résurrection (Resurrection)",
+                    "description": "Sage s’équipe de la Résurrection. TIREZ sur le cadavre d’un allié pour le ramener à la vie avec tous ses points de vie après un court temps d’incantation.",
                     "displayIcon": "https://media.valorant-api.com/agents/569fdd95-4d10-43ab-ca70-79becc718b46/abilities/ultimate/displayicon.png"
                 }
             ],
@@ -1190,7 +1190,7 @@
         {
             "uuid": "a3bfb853-43b2-7238-a4f1-ad90e9e46bcc",
             "displayName": "Reyna",
-            "description": "Forged in the heart of Mexico, Reyna dominates single combat, popping off with each kill she scores. Her capability is only limited by her raw skill, making her sharply dependant on performance. ",
+            "description": "Experte des combats singuliers formée au cœur du Mexique, Reyna se renforce à chaque élimination qu’elle réussit. Son efficacité n’est limitée que par son habileté, ce qui la rend très dépendante de ses propres performances. ",
             "developerName": "Vampire",
             "characterTags": [
                 "Evasion",
@@ -1219,26 +1219,26 @@
             "abilities": [
                 {
                     "slot": "Ability1",
-                    "displayName": "Devour",
-                    "description": "Soul Harvest: Enemies that die to Reyna, or die within 3 seconds of taking damage from Reyna, leave behind Soul Orbs that last 3 seconds.\r\nDevour: INSTANTLY consume a nearby soul orb, rapidly Healing for a short duration. Health gained through this skill exceeding 100 will decay over time. If EMPRESS is active, this skill will automatically cast and not consume the Soul Orb.",
+                    "displayName": "Œillade (Leer)",
+                    "description": "ÉQUIPEZ-vous d’un œil éthéré destrucible. ACTIVEZ pour lancer l’oeil vers l’avant sur une courte distance. L’œil rend myope tous les ennemis qui le regardent.",
                     "displayIcon": "https://media.valorant-api.com/agents/a3bfb853-43b2-7238-a4f1-ad90e9e46bcc/abilities/ability1/displayicon.png"
                 },
                 {
                     "slot": "Ability2",
-                    "displayName": "Dismiss",
-                    "description": "INSTANTLY consume a nearby Soul Orb, becoming Intangible for a short duration. If EMPRESS is active, also become Invisible.",
+                    "displayName": "Dévoration (Devour)",
+                    "description": "Récolte des âmes : les ennemis tués par Reyna laissent des orbes d’âme qui durent 3  sec. Dévoration : vous consommez INSTANTANÉMENT un orbe d’âme proche pour rapidement regagner des PV pendant un court instant. Au-delà de 100 PV, les PV ainsi gagnés sont perdus progressivement. Si IMPÉRATRICE est active, cette compétence se lancera automatiquement et ne consommera pas d’orbe d’âme.",
                     "displayIcon": "https://media.valorant-api.com/agents/a3bfb853-43b2-7238-a4f1-ad90e9e46bcc/abilities/ability2/displayicon.png"
                 },
                 {
                     "slot": "Ability3",
-                    "displayName": "Leer",
-                    "description": "EQUIP an ethereal, destructible eye. ACTIVATE to cast the eye a short distance forward. The eye will Nearsight all enemies who look at it.",
+                    "displayName": "Rebuffade (Dismiss)",
+                    "description": "Vous consommez INSTANTANÉMENT un orbe d’âme proche et devenez intangible pendant un court instant. Si IMPÉRATRICE est active, vous devenez également invisible.",
                     "displayIcon": "https://media.valorant-api.com/agents/a3bfb853-43b2-7238-a4f1-ad90e9e46bcc/abilities/grenade/displayicon.png"
                 },
                 {
                     "slot": "Ability4",
-                    "displayName": "Empress",
-                    "description": "INSTANTLY enter a frenzy, gaining a Combat Stim that increases firing, equip and reload speed dramatically. Gain infinite charges of Soul Harvest abilities. When an enemy dies to Reyna, or dies within 3 seconds of taking damage from Reyna, the duration is renewed.",
+                    "displayName": "Impératrice (Empress)",
+                    "description": "Entrez INSTANTANÉMENT en furie, ce qui augmente considérablement vos vitesses de tir, de chargement d’arme et de rechargement. Vous gagnez une infinité de charges pour les compétences se servant de Récolte des âmes. Réussir une élimination réinitialise la durée.",
                     "displayIcon": "https://media.valorant-api.com/agents/a3bfb853-43b2-7238-a4f1-ad90e9e46bcc/abilities/ultimate/displayicon.png"
                 }
             ],
@@ -1247,7 +1247,7 @@
         {
             "uuid": "8e253930-4c05-31dd-1b6c-968525494517",
             "displayName": "Omen",
-            "description": "A phantom of a memory, Omen hunts in the shadows. He renders enemies blind, teleports across the field, then lets paranoia take hold as his foe scrambles to uncover where he might strike next.",
+            "description": "Redoutable contrôleur, Omen se complaît dans les ténèbres. Il manipule les ombres et peut ainsi grandement réduire la vision de ses ennemis ou encore s’enfuir en se téléportant. Sa capacité à se déplacer sur la carte n’a pas d’égal dans Valorant. Autant dire que cela sème rapidement le trouble et la peur chez ses adversaires.",
             "developerName": "Wraith",
             "characterTags": [
                 "Mobility",
@@ -1276,26 +1276,26 @@
             "abilities": [
                 {
                     "slot": "Ability1",
-                    "displayName": "Paranoia",
-                    "description": "EQUIP a blinding orb.  FIRE to throw it forward, briefly Nearsighting and Deafening all players it touches. This projectile can pass straight through walls.",
+                    "displayName": "Voie des Ombres (Shrouded Step)",
+                    "description": "Omen se prépare à se téléporter. TIREZ pour qu’Omen se téléporte sous votre viseur après une brève canalisation. La téléportation ne laisse aucune trace sur votre passage. En revanche, vous faites un bruit caractéristique lorsque vous apparaissez, ce qui peut alerter les ennemis.",
                     "displayIcon": "https://media.valorant-api.com/agents/8e253930-4c05-31dd-1b6c-968525494517/abilities/ability1/displayicon.png"
                 },
                 {
                     "slot": "Ability2",
-                    "displayName": "Dark Cover",
-                    "description": "EQUIP a shadow orb, entering a phased world to place and target the orbs. PRESS the ability key to throw the shadow orb to the marked location, creating a long-lasting shadow sphere that blocks vision. HOLD FIRE while targeting to move the marker further away. HOLD ALT FIRE while targeting to move the marker closer. PRESS RELOAD to toggle normal targeting view.",
+                    "displayName": "Paranoïa (Paranoia)",
+                    "description": "Omen lance instantanément un projectile d’ombre qui passe à travers les murs sur une ligne droite. Tous les joueurs touchés par cette capacité voient leur distance de vision réduite à un mètre.",
                     "displayIcon": "https://media.valorant-api.com/agents/8e253930-4c05-31dd-1b6c-968525494517/abilities/ability2/displayicon.png"
                 },
                 {
                     "slot": "Ability3",
-                    "displayName": "Shrouded Step",
-                    "description": "EQUIP a shrouded step ability and see its range indicator. FIRE to begin a brief channel, then teleport to the marked location.",
+                    "displayName": "Voile Sombre (Dark Cover)",
+                    "description": "Omen entre dans un monde parallèle et s’équipe d’un orbe d’ombre à placer sur la carte. La portée peut être ajustée via un indicateur. TIREZ pour faire apparaître un nuage de fumée à l’endroit où se trouve l’indicateur, qui bloque la vision de vos adversaires. MAINTENEZ le tir secondaire pour éloigner le marqueur et MAINTENEZ la touche du skill pour le rapprocher. APPUYEZ sur RECHARGER pour repasser en vue normale. ",
                     "displayIcon": "https://media.valorant-api.com/agents/8e253930-4c05-31dd-1b6c-968525494517/abilities/grenade/displayicon.png"
                 },
                 {
                     "slot": "Ability4",
-                    "displayName": "From the Shadows",
-                    "description": "EQUIP a tactical map. FIRE to begin teleporting to the selected location. While teleporting, Omen will appear as a Shade that can be destroyed by an enemy to cancel his teleport, or PRESS EQUIP for Omen to cancel his teleport.",
+                    "displayName": "Depuis les Ombres (From the Shadows)",
+                    "description": "Omen ouvre la carte devant lui et peut sélectionner un point de téléportation. TIREZ pour vous téléporter sur le point ciblé après une courte canalisation. Les adversaires peuvent empêcher votre téléportation en détruisant votre ombre avant la fin de la canalisation. APPUYEZ sur EQUIPER pour annuler l’utilisation de l’ultime.",
                     "displayIcon": "https://media.valorant-api.com/agents/8e253930-4c05-31dd-1b6c-968525494517/abilities/ultimate/displayicon.png"
                 }
             ],
@@ -1304,7 +1304,7 @@
         {
             "uuid": "add6443a-41bd-e414-f6ad-e58d267f4e95",
             "displayName": "Jett",
-            "description": "Representing her home country of South Korea, Jett's agile and evasive fighting style lets her take risks no one else can. She runs circles around every skirmish, cutting enemies up before they even know what hit them.",
+            "description": "Légère et rapide comme le vent, Jett est une duelliste de choix de Valorant. Ses capacités lui permettent d’avoir un style de combat très dynamique. Elle peut dash ou se projeter dans les airs, ce qui lui confère beaucoup de mobilité. Son kit lui permet cependant d’aveugler les ennemis, avec sa grenade fumigène, mais aussi d’infliger de lourds dégâts via sa capacité ultime, Tempête de Lames. Jett est donc une combattante très complète, qui saura mener son équipe à la victoire.",
             "developerName": "Wushu",
             "characterTags": [
                 "Evasion",
@@ -1333,26 +1333,26 @@
             "abilities": [
                 {
                     "slot": "Ability1",
-                    "displayName": "Updraft",
-                    "description": "INSTANTLY propel Jett high into the air.",
+                    "displayName": "Averse (Cloudburst)",
+                    "description": "Jett s’équipe d’une grenade fumigène. TIREZ pour lancer la grenade qui se transforme en nuage de fumée dès qu’elle touche une surface. MAINTENEZ le tir pour modifier la trajectoire du tir en plein vol.",
                     "displayIcon": "https://media.valorant-api.com/agents/add6443a-41bd-e414-f6ad-e58d267f4e95/abilities/ability1/displayicon.png"
                 },
                 {
                     "slot": "Ability2",
-                    "displayName": "Tailwind",
-                    "description": "ACTIVATE to prepare a gust of wind for a limited time. RE-USE the wind to propel Jett in the direction she is moving. If Jett is standing still, she propels forward. Tailwind charge resets every two kills.",
+                    "displayName": "Courant Ascendant (Updraft)",
+                    "description": "Jett se propulse instantanément dans les airs, à une hauteur représentant deux caisses.",
                     "displayIcon": "https://media.valorant-api.com/agents/add6443a-41bd-e414-f6ad-e58d267f4e95/abilities/ability2/displayicon.png"
                 },
                 {
                     "slot": "Ability3",
-                    "displayName": "Cloudburst",
-                    "description": "INSTANTLY throw a projectile that expands into a brief vision-blocking cloud on impact with a surface. HOLD the ability key to curve the smoke in the direction of your crosshair.",
+                    "displayName": "Vent Arrière (Tailwind)",
+                    "description": "Signature – se recharge après 2 éliminations. Activez la compétence une première fois pour ouvrir une fenêtre temporelle de 12 secondes. Utilisez à nouveau le sort pour vous projeter instantanément dans une direction Jett grâce à un dash. La direction du dash correspond au mouvement actuel de Jett. Si Jett est immobile, Tailwind la projette en avant. Tailwind est de nouveau utilisable après 2 kills consécutifs dans le même tour.",
                     "displayIcon": "https://media.valorant-api.com/agents/add6443a-41bd-e414-f6ad-e58d267f4e95/abilities/grenade/displayicon.png"
                 },
                 {
                     "slot": "Ability4",
-                    "displayName": "Blade Storm",
-                    "description": "EQUIP a set of highly accurate throwing knives. FIRE to throw a single knife and recharge knives on a kill. ALT FIRE to throw all remaining daggers but does not recharge on a kill.",
+                    "displayName": "Tempête de Lames (Blade Storm)",
+                    "description": "Jett s’équipe de 7 couteaux de lancer. TIREZ pour lancer un couteau sur une trajectoire droite et précise. Jett récupère tous ses couteaux chaque fois qu’elle tue un adversaire avec l’un d’eux. TIR ALTERNATIF permet de lancer tous vos couteaux restants simultanément.",
                     "displayIcon": "https://media.valorant-api.com/agents/add6443a-41bd-e414-f6ad-e58d267f4e95/abilities/ultimate/displayicon.png"
                 },
                 {
