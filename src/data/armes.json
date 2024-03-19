@@ -1,0 +1,98 @@
+[
+    {
+        "armes-de-poing": {
+          "name":"Armes de poing",
+            "armes" :[
+                {
+                   "name":"Classic"
+                },
+                {
+                    "name":"Shorty"
+                },
+                {
+                    "name":"Frenzy"
+                },
+                {
+                    "name":"Ghost"
+                },
+                {
+                    "name":"Sheriff"
+                }
+            ]
+           
+        },
+        "smgs": {
+          "name":"SMGS (Sub machine gun)",
+          "armes" : [
+                {
+                    "name":"Stinger"
+                },
+                {
+                    "name":"Spectre"
+                }
+          ]
+        },
+        "fusils à pompe": {
+            "name":"Fusils à pompe",
+          "armes" : [
+                 {
+                    "name":"Bucky"
+                 },
+                 {
+                    "name":"Judge"
+                 }
+          ]
+        },
+        "fusils": {
+            "name":"Fusils (Riffles)",
+            "armes" : [
+                {
+                    "name":"Bulldog"
+                },
+                {
+                    "name":"Guardian"
+                },
+                {
+                    "name":"Vandal"
+                },
+                {
+                    "name":"Phantom"
+                }
+            ]
+        },
+        "sniper": {
+            "name":"Sniper",
+            "armes" : [
+                {
+                    "name":"Marshall"
+                },
+                {
+                    "name":"Outlaw"
+                },
+                {
+                    "name":"Operator"
+                }
+            ]
+        },
+        "heavy": {
+            "name":"Heavy",
+            "armes" : [
+                {
+                    "name":"Ares"
+                },
+                {
+                    "name":"Odin"
+                }
+            ]
+        },
+        "melee": {
+            "name":"Arme de mêlée",
+            "armes" : [
+                {
+                    "name":"Couteau"
+                }
+            ]
+        }
+    }
+    
+]
