@@ -1,98 +1,78 @@
 [
-    {
-        "armes-de-poing": {
-          "name":"Armes de poing",
-            "armes" :[
                 {
-                   "name":"Classic"
+                   "name":"Classic",
+                   "img":"https://www.mandatory.gg/wp-content/uploads/database/weapons/classic/artworks/valorant-database-weapons-classic-artwork.png"
                 },
                 {
-                    "name":"Shorty"
+                    "name":"Shorty",
+                    "img":"https://www.mandatory.gg/wp-content/uploads/database/weapons/shorty/artworks/valorant-database-weapons-shorty-artwork.png"
                 },
                 {
-                    "name":"Frenzy"
+                    "name":"Frenzy",
+                    "img":"https://www.mandatory.gg/wp-content/uploads/database/weapons/frenzy/artworks/valorant-database-weapons-frenzy-artwork.png"
                 },
                 {
-                    "name":"Ghost"
+                    "name":"Ghost",
+                    "img":"https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltc4788d390015fb7c/5eb281c4105ab84c3815e164/ghost.png"
                 },
                 {
-                    "name":"Sheriff"
-                }
-            ]
-           
-        },
-        "smgs": {
-          "name":"SMGS (Sub machine gun)",
-          "armes" : [
-                {
-                    "name":"Stinger"
+                    "name":"Sheriff",
+                    "img":"https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt3bbed29a5475c7d4/5eb281ca2278aa3e8d0ba7fe/sheriff.png"
                 },
                 {
-                    "name":"Spectre"
-                }
-          ]
-        },
-        "fusils à pompe": {
-            "name":"Fusils à pompe",
-          "armes" : [
+                    "name":"Stinger",
+                    "img":""
+                },
+                {
+                    "name":"Spectre",
+                    "img":""
+                },
                  {
-                    "name":"Bucky"
+                    "name":"Bucky",
+                    "img":""
                  },
                  {
-                    "name":"Judge"
-                 }
-          ]
-        },
-        "fusils": {
-            "name":"Fusils (Riffles)",
-            "armes" : [
+                    "name":"Judge",
+                    "img":""
+                 },
                 {
-                    "name":"Bulldog"
+                    "name":"Bulldog",
+                    "img":""
                 },
                 {
-                    "name":"Guardian"
+                    "name":"Guardian",
+                    "img":""
                 },
                 {
-                    "name":"Vandal"
+                    "name":"Vandal",
+                    "img":""
                 },
                 {
-                    "name":"Phantom"
-                }
-            ]
-        },
-        "sniper": {
-            "name":"Sniper",
-            "armes" : [
-                {
-                    "name":"Marshall"
+                    "name":"Phantom",
+                    "img":""
                 },
                 {
-                    "name":"Outlaw"
+                    "name":"Marshall",
+                    "img":""
                 },
                 {
-                    "name":"Operator"
-                }
-            ]
-        },
-        "heavy": {
-            "name":"Heavy",
-            "armes" : [
-                {
-                    "name":"Ares"
+                    "name":"Outlaw",
+                    "img":""
                 },
                 {
-                    "name":"Odin"
-                }
-            ]
-        },
-        "melee": {
-            "name":"Arme de mêlée",
-            "armes" : [
+                    "name":"Operator",
+                    "img":""
+                },
                 {
-                    "name":"Couteau"
-                }
-            ]
-        }
-    }
-    
+                    "name":"Ares",
+                    "img":""
+                },
+                {
+                    "name":"Odin",
+                    "img":""
+                },
+                {
+                    "name":"Couteau",
+                    "img":""
+                } 
 ]
