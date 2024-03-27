@@ -5,6 +5,8 @@ import {FaArrowRight, FaArrowLeft} from "react-icons/fa"
 const ArmCard = ({item}) => {
     console.log(...item);
 
+    const [imageIndex, setImageIndex] = useState(0)
+
     const NextArrow = ({onClick}) => {
         return (
             <div className="arrow next" onClick={onClick}>
@@ -29,7 +31,8 @@ const ArmCard = ({item}) => {
         centerMode:true,
         centerPadding:0,
         nextArrow : <NextArrow/>,
-        prevArrow: <PrevArrow/>
+        prevArrow: <PrevArrow/>,
+        beforeChange: (current, next) => setImageIndex(next)
     }
     
     return (
@@ -37,7 +40,7 @@ const ArmCard = ({item}) => {
             <Slider {...settings}>
                 {
                     item.map((e, idx) => (
-                        <div>
+                        <div className={idx === imageIndex ? "slide active-slide" : "slide"}>
                             <img className='img-weapon' src={e.img} alt={e.name} key={e.name}/>
                         </div>
                     ))
