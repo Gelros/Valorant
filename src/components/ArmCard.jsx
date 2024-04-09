@@ -1,6 +1,7 @@
 import {React, useState} from 'react';
 import Slider from "react-slick"
 import {FaArrowRight, FaArrowLeft} from "react-icons/fa"
+import {useNavigate} from "react-router-dom"
 
 const ArmCard = ({item}) => {
     console.log(...item);
@@ -35,12 +36,14 @@ const ArmCard = ({item}) => {
         beforeChange: (current, next) => setImageIndex(next)
     }
     
+    const navigate = useNavigate()
+
     return (
         <div className='slide-weapon'>
             <Slider {...settings}>
                 {
                     item.map((e, idx) => (
-                        <div className={idx === imageIndex ? "slide active-slide" : "slide"}>
+                        <div className={idx === imageIndex ? "slide active-slide" : "slide"} onClick={() => navigate(`armes/${e.name}`)}>
                             <img className='img-weapon' src={e.img} alt={e.name} key={e.name}/>
                         </div>
                     ))

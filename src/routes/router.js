@@ -6,6 +6,7 @@ import Cartes from "../pages/Cartes";
 import Armes from "../pages/Armes"
 import Property from '../pages/Property';
 import MapDetails from '../pages/MapDetails';
+import ArmesDetails from '../pages/ArmesDetails';
 
 const router = () => {
     return (
@@ -16,6 +17,7 @@ const router = () => {
             <Route path='/armes' element={<Armes/>}/>
             <Route path='/:id' element={<Property/>}/>
             <Route path='/cartes/:id' element={<MapDetails/>}/>
+            <Route path='/armes/:id' element={<ArmesDetails/>}/>
         </Routes>
     );
 };
