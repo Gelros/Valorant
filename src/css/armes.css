@@ -57,3 +57,19 @@
   left: 0%;
   top: 50%;
 }
+
+.weapon-name{
+    display: flex;
+    font-family: "Rajdhani", sans-serif;
+    flex-direction: column;
+    font-size: 0.2em;
+    text-align: center;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 0.8;
+    color: transparent;
+    width: 70%;
+    -webkit-text-stroke: 1px rgba(255, 255, 255, 0.3);
+    transform: translate(60px, 0px);
+    margin-top: 5px;
+}
