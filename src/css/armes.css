@@ -25,6 +25,10 @@
   opacity: 0.5;
 }
 
+.none{
+  display: none;
+}
+
 .active-slide {
   transform: scale(1.1);
   opacity: 1;

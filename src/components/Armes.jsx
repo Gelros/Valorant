@@ -31,7 +31,10 @@ const Armes = () => {
             itemSelected={itemSelected}
             itemNumber={itemNumber}
             />
-            <ArmCard item={item}/>
+            <ArmCard 
+            item={item}
+            itemSelected={itemSelected}
+            />
         </div>
     );
 };

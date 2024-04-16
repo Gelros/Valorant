@@ -7,6 +7,7 @@ const ArmCard = ({item}) => {
     console.log(...item);
 
     const [imageIndex, setImageIndex] = useState(0)
+    
     console.log(imageIndex);
 
     const NextArrow = ({onClick}) => {
@@ -44,7 +45,7 @@ const ArmCard = ({item}) => {
             <Slider {...settings}>
                 {
                     item.map((e, idx) => (
-                        <div className={idx === imageIndex ? "slide active-slide" : "slide"} onClick={() => navigate(`armes/${e.name}`)}>
+                        <div className={idx === imageIndex ? "slide active-slide" : "none"} onClick={() => navigate(`${e.name}`)}>
                             <img className='img-weapon' src={e.img} alt={e.name} key={e.name}/>
                             
                             {
